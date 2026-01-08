@@ -50,11 +50,14 @@
     {
       "id": "ed-stillman",
       "name": "Ed Stillman",
-      "company": "Vistage Worldwide",
-      "title": "Vistage Chair",
+      "company": "VistageAustin",
+      "title": "Executive Coach | Peer Group Leader",
       "linkedin_url": "https://www.linkedin.com/in/edstillman/",
       "location": "Austin, Texas",
-      "status": "needs_research"
+      "status": "complete",
+      "verified_event": "Experience Austin",
+      "event_url": "https://www.linkedin.com/feed/update/urn:li:activity:7366562416819650562/",
+      "message": "Ed, Experience Austin looks like it's going to be fantastic. Good luck! I'd love to hire you for my AI Training workshops. May I share more?"
     },
     {
       "id": "rod-keller",
@@ -618,6 +621,7 @@
   "activity": [
     {"timestamp": "2026-01-08T12:00:00Z", "event": "research_complete", "prospect_id": "jennifer-mcclanahan", "details": "Verified event: EO Houston Clubhouse Grand Opening (June 2024). Jennifer McClanahan listed as contact on Business Wire press release."},
     {"timestamp": "2026-01-08T14:30:00Z", "event": "research_complete", "prospect_id": "cliff-price", "details": "Verified event: EO XCentric 2024 - Unbridled (October 27-29, 2024). Cliff Price confirmed as EO Fort Worth Chapter President and was on the 2024 XCentric Planning Committee. Event verified on eofortworth.org."},
-    {"timestamp": "2026-01-08T16:45:00Z", "event": "research_skipped", "prospect_id": "rob-enright", "details": "Skipped: EO Dallas Board President role was 2007-2009 (16+ years ago). Currently President at The Ward Group media buying agency since 2001. LinkedIn activity shows only marketing content, no event organization. Not a fit - outdated EO connection and not an active event organizer."}
+    {"timestamp": "2026-01-08T16:45:00Z", "event": "research_skipped", "prospect_id": "rob-enright", "details": "Skipped: EO Dallas Board President role was 2007-2009 (16+ years ago). Currently President at The Ward Group media buying agency since 2001. LinkedIn activity shows only marketing content, no event organization. Not a fit - outdated EO connection and not an active event organizer."},
+    {"timestamp": "2026-01-08T18:30:00Z", "event": "research_complete", "prospect_id": "ed-stillman", "details": "Verified event: Experience Austin - a Vistage peer advisory event for SMB owners that Ed organizes. Found LinkedIn post from Sept 2025 inviting Austin business owners to join Thursday morning sessions. Event includes agenda and networking for CEOs/Presidents."}
   ]
 }
