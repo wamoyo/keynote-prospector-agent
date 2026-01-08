@@ -1,0 +1,25 @@
+{
+  "phase": "researching",
+  "search_query": "event organizers in Austin, TX",
+  "prospects_total": 2,
+  "prospects_verified": 1,
+  "current_prospect_id": "lisa-blanton",
+  "prospects": [
+    {
+      "id": "chris-turner",
+      "name": "Chris Turner",
+      "company": "EO Austin",
+      "title": "President",
+      "status": "complete",
+      "linkedin_url": "https://www.linkedin.com/in/chris-turner-4069241/"
+    },
+    {
+      "id": "lisa-blanton",
+      "name": "Lisa Blanton",
+      "company": "Austin Alliance Group",
+      "title": "Founder/CEO",
+      "status": "researching",
+      "linkedin_url": "https://www.linkedin.com/in/lisawatryblanton/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Prospector - Live</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <h1>AI Prospector</h1>
+      <div class="phase-indicator">
+        <span class="phase-label">Phase:</span>
+        <span class="phase-value" id="phase">Waiting...</span>
+      </div>
+    </header>
+
+    <!-- Main content area -->
+    <div class="main-content">
+      <!-- Left: Prospect cards -->
+      <div class="prospects-section">
+        <div class="section-header">
+          <h2>Prospects</h2>
+          <div class="progress-bar-container">
+            <div class="progress-bar" id="progress"></div>
+          </div>
+          <div class="stats">
+            <span id="stats-text">0 of 0 processed</span>
+          </div>
+          <div class="filters">
+            <label class="filter-toggle">
+              <input type="checkbox" id="filter-incomplete" checked> Show needs research
+            </label>
+            <label class="filter-toggle">
+              <input type="checkbox" id="filter-skipped" checked> Show skipped
+            </label>
+            <label class="filter-toggle">
+              <input type="checkbox" id="filter-contacted" checked> Show contacted
+            </label>
+          </div>
+        </div>
+        <div class="prospects-grid" id="prospects">
+          <!-- Prospect cards will be inserted here -->
+        </div>
+      </div>
+
+      <!-- Right: Activity feed -->
+      <div class="activity-section">
+        <h2>Activity</h2>
+        <div class="activity-feed" id="activity">
+          <!-- Activity items will be inserted here -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,514 @@
+{
+  "prospects": [
+    {
+      "id": "rob-enright",
+      "name": "Rob Enright",
+      "company": "EO Dallas",
+      "title": "Chapter President (former)",
+      "linkedin_url": "https://www.linkedin.com/in/enrightrob/",
+      "location": "Frisco, Texas",
+      "event_organized": "EO Dallas chapter events and EO Global Leadership Conference participation",
+      "notes": "Former President of EO Dallas, also served as Mentorship Chair and Forum Chair"
+    },
+    {
+      "id": "jennifer-mcclanahan",
+      "name": "Jennifer McClanahan",
+      "company": "EO Houston Chapter",
+      "title": "Chapter Director",
+      "linkedin_url": "https://www.linkedin.com/in/jennifer-mcclanahan-43985b181/",
+      "location": "Greater Houston",
+      "event_organized": "EO Houston chapter events",
+      "notes": "Chapter Director for Entrepreneurs' Organization of Houston"
+    },
+    {
+      "id": "cliff-price",
+      "name": "Cliff Price",
+      "company": "EO Fort Worth",
+      "title": "Chapter President",
+      "linkedin_url": "https://www.linkedin.com/company/entrepreneurs-organization-eo-fort-worth",
+      "location": "Fort Worth, Texas",
+      "event_organized": "EO Fort Worth chapter events and programs",
+      "notes": "Chapter President of EO Fort Worth as of 2025"
+    },
+    {
+      "id": "ed-stillman",
+      "name": "Ed Stillman",
+      "company": "Vistage Worldwide",
+      "title": "Vistage Chair",
+      "linkedin_url": "https://www.linkedin.com/in/edstillman/",
+      "location": "Austin, Texas",
+      "event_organized": "Vistage CEO peer advisory group meetings and workshops",
+      "notes": "Leadership Development Coach and Vistage Chair in Austin"
+    },
+    {
+      "id": "rod-keller",
+      "name": "Rod Keller",
+      "company": "Vistage",
+      "title": "Vistage Chair / CEO Executive Coach",
+      "linkedin_url": "https://www.linkedin.com/in/rodkeller1/",
+      "location": "Austin, Texas",
+      "event_organized": "Vistage CEO group meetings and executive coaching sessions",
+      "notes": "CEO/Executive Coach | Vistage Chair in Austin"
+    },
+    {
+      "id": "dennis-howard",
+      "name": "Dennis Howard",
+      "company": "Vistage Worldwide",
+      "title": "Vistage Chair, PCC",
+      "linkedin_url": "https://www.linkedin.com/in/dennischoward/",
+      "location": "Dallas-Fort Worth Metroplex",
+      "event_organized": "Vistage peer advisory board meetings",
+      "notes": "Professional Certified Coach (PCC) leading Vistage groups"
+    },
+    {
+      "id": "nicole-morris",
+      "name": "Nicole Morris",
+      "company": "ND Morris & Associates / Vistage",
+      "title": "Vistage Chair",
+      "linkedin_url": "https://www.linkedin.com/in/nicolemorris-mba/",
+      "location": "Houston, Texas",
+      "event_organized": "Vistage confidential boards for $5M+ CEOs",
+      "notes": "Executive Coach & Growth Strategist, Vistage Chair for $5M+ CEOs"
+    },
+    {
+      "id": "charles-marino",
+      "name": "Charles Marino",
+      "company": "Vistage International",
+      "title": "Master Chair",
+      "linkedin_url": "https://www.linkedin.com/in/charles-marino-6b940512/",
+      "location": "San Antonio, Texas",
+      "event_organized": "Vistage peer advisory group meetings for Presidents, CEOs and business owners",
+      "notes": "Master Chair and Founding Chairman in San Antonio"
+    },
+    {
+      "id": "oscar-benavides",
+      "name": "Oscar Benavides",
+      "company": "Vistage",
+      "title": "Vistage Chair / Executive Coach",
+      "linkedin_url": "https://www.linkedin.com/in/coachoscbenavides/",
+      "location": "Dallas-Fort Worth Metroplex",
+      "event_organized": "Vistage CEO peer advisory meetings",
+      "notes": "Vistage Chair and Executive Coach in DFW area"
+    },
+    {
+      "id": "mike-rollins",
+      "name": "Mike Rollins",
+      "company": "Greater Austin Chamber of Commerce",
+      "title": "President",
+      "linkedin_url": "https://www.linkedin.com/in/mike-rollins-0238377/",
+      "location": "Austin, Texas",
+      "event_organized": "Greater Austin Chamber Annual Meeting (146th), Greater Austin Business Awards, Infrastructure Summit",
+      "notes": "President of Greater Austin Chamber - organizes multiple annual business events including their signature Business Awards with 700+ attendees"
+    },
+    {
+      "id": "steve-montgomery",
+      "name": "Steve Montgomery",
+      "company": "Fort Worth Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/steve-montgomery-311717b/",
+      "location": "Fort Worth, Texas",
+      "event_organized": "Fort Worth Chamber 142nd Annual Meeting, Metro 8 CEO Convening",
+      "notes": "30 years experience in executive leadership and advocacy, leads Fort Worth's largest business organization"
+    },
+    {
+      "id": "ericka-garza",
+      "name": "Ericka Garza",
+      "company": "Fort Worth Hispanic Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/company/fwhcc",
+      "location": "Fort Worth, Texas",
+      "event_organized": "Fort Worth Hispanic Chamber events and business networking summits",
+      "notes": "Assumed role as President & CEO in March 2025"
+    },
+    {
+      "id": "dale-petroskey",
+      "name": "Dale Petroskey",
+      "company": "Dallas Regional Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/dale-petroskey-3b2bb81b/",
+      "location": "Dallas, Texas",
+      "event_organized": "Dallas Regional Chamber Leadership Dallas program, DRC Annual Meeting",
+      "notes": "President & CEO since April 2014, stepping down January 2026 after 12 years"
+    },
+    {
+      "id": "kelle-marsalis",
+      "name": "Kelle Marsalis",
+      "company": "Plano Chamber of Commerce",
+      "title": "President & CEO, CCE, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/kellemarsalis/",
+      "location": "Plano, Texas",
+      "event_organized": "Plano Chamber events and business networking programs",
+      "notes": "Certified Chamber Executive (CCE) and Institute for Organization Management (IOM) credentials"
+    },
+    {
+      "id": "christal-howard",
+      "name": "Christal Howard",
+      "company": "Frisco Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/christal-bennett-howard-9460028/",
+      "location": "Frisco, Texas",
+      "event_organized": "Frisco Chamber events and Leadership Frisco program",
+      "notes": "Appointed CEO in October 2023 after serving as COO and Interim President/CEO"
+    },
+    {
+      "id": "beth-bowman",
+      "name": "Beth Bowman",
+      "company": "Greater Irving - Las Colinas Chamber of Commerce",
+      "title": "President & CEO, IOM, CCE",
+      "linkedin_url": "https://www.linkedin.com/in/bethbowman/",
+      "location": "Irving, Texas",
+      "event_organized": "Greater Irving-Las Colinas Chamber events and economic development programs",
+      "notes": "Certified Chamber Executive (CCE), highest level attainable by Chamber leaders"
+    },
+    {
+      "id": "lisa-hermes",
+      "name": "Lisa Hermes",
+      "company": "McKinney Chamber of Commerce",
+      "title": "President & CEO, CCE, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/lhermes/",
+      "location": "McKinney, Texas",
+      "event_organized": "McKinney Chamber business networking events and programs",
+      "notes": "Holds CCE and IOM certifications, volunteer with U.S. Chamber Institute"
+    },
+    {
+      "id": "kyle-jacobson",
+      "name": "Kyle Jacobson",
+      "company": "Allen Fairview Chamber of Commerce",
+      "title": "President & CEO, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/kylejacobson11",
+      "location": "Allen, Texas",
+      "event_organized": "Allen Fairview Chamber events and business programs",
+      "notes": "Appointed August 2024, previously VP of Government Relations at Fort Worth Chamber"
+    },
+    {
+      "id": "al-arreola",
+      "name": "Al Arreola Jr.",
+      "company": "United Corpus Christi Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://unitedcorpuschristi.org",
+      "location": "Corpus Christi, Texas",
+      "event_organized": "United Corpus Christi Chamber Annual Meeting and business events",
+      "notes": "Started as President & CEO October 2022, previously led South Texas Business Partnership"
+    },
+    {
+      "id": "ricardo-mora",
+      "name": "Ricardo Mora",
+      "company": "El Paso Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/company/greater-el-paso-chamber-of-commerce",
+      "location": "El Paso, Texas",
+      "event_organized": "El Paso Chamber events and business advocacy programs",
+      "notes": "Serial entrepreneur, began as CEO August 2024, co-founded Technology Hub Business Innovation Center"
+    },
+    {
+      "id": "steve-kean",
+      "name": "Steve Kean",
+      "company": "Greater Houston Partnership",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/company/ghpartnership",
+      "location": "Houston, Texas",
+      "event_organized": "Greater Houston Partnership Annual Meeting and economic development summits",
+      "notes": "Assumed role December 2023, previously CEO of Kinder Morgan, 30+ years energy industry experience"
+    },
+    {
+      "id": "keri-schmidt",
+      "name": "Keri Schmidt",
+      "company": "Fort Bend Chamber of Commerce",
+      "title": "President & CEO, CCE, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/keri-curtis-schmidt-cce-iom-381096a/",
+      "location": "Sugar Land, Texas",
+      "event_organized": "Fort Bend Chamber events serving Greater Houston region",
+      "notes": "US Chamber awarded 5-Star Accreditation under her leadership, largest single-county chamber in Greater Houston"
+    },
+    {
+      "id": "jordan-robinson",
+      "name": "Jordan Robinson",
+      "company": "Round Rock Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/jordanlrobinson85/",
+      "location": "Round Rock, Texas",
+      "event_organized": "Round Rock Chamber business events and economic development programs",
+      "notes": "Named Interim President/CEO January 2025, previously VP for Economic Development since August 2020"
+    },
+    {
+      "id": "aaron-cox",
+      "name": "Aaron Cox",
+      "company": "The Woodlands Area Chamber of Commerce",
+      "title": "President & CEO, IOM",
+      "linkedin_url": "https://www.linkedin.com/company/the-woodlands-area-chamber-of-commerce",
+      "location": "The Woodlands, Texas",
+      "event_organized": "The Woodlands Area Chamber events and business programs",
+      "notes": "Started September 2024, 20+ years chamber experience, worked for Texas Association of Business for 12 years"
+    },
+    {
+      "id": "shontel-mays",
+      "name": "Shontel Mays",
+      "company": "Georgetown Chamber of Commerce",
+      "title": "President & CEO, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/shontel-mays",
+      "location": "Georgetown, Texas",
+      "event_organized": "Georgetown Chamber events, second largest Chamber in Central Texas",
+      "notes": "Joined July 2022, previously with Pflugerville Chamber"
+    },
+    {
+      "id": "bridget-brandt",
+      "name": "Bridget L. Brandt",
+      "company": "Leander Chamber of Commerce",
+      "title": "President",
+      "linkedin_url": "https://www.linkedin.com/company/leander-chamber-of-commerce",
+      "location": "Leander, Texas",
+      "event_organized": "Leander Chamber business networking events and community programs",
+      "notes": "Promotes member businesses and cultivates community leaders"
+    },
+    {
+      "id": "glenn-hamer",
+      "name": "Glenn Hamer",
+      "company": "Texas Association of Business",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/glenn-hamer-50674b5/",
+      "location": "Texas",
+      "event_organized": "Texas Association of Business conferences and advocacy events",
+      "notes": "President & CEO of statewide business association"
+    },
+    {
+      "id": "monica-munoz-andry",
+      "name": "Monica Muñoz Andry",
+      "company": "Greater Austin Hispanic Chamber of Commerce (GAHCC)",
+      "title": "President and CEO",
+      "linkedin_url": "https://www.linkedin.com/in/monica-munoz-andry/",
+      "location": "Austin, Texas",
+      "event_organized": "GAHCC annual events and business networking summits",
+      "notes": "President and CEO of Greater Austin Hispanic Chamber"
+    },
+    {
+      "id": "page-michel",
+      "name": "Page Michel",
+      "company": "San Marcos Area Chamber of Commerce",
+      "title": "President & CEO, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/pagemichel/",
+      "location": "San Marcos, Texas",
+      "event_organized": "San Marcos Chamber annual events and business networking programs",
+      "notes": "Distinguished Service Award recipient from Texas Chamber of Commerce Executives"
+    },
+    {
+      "id": "henry-bell",
+      "name": "Henry Bell",
+      "company": "Tyler Area Chamber of Commerce",
+      "title": "President",
+      "linkedin_url": "https://www.linkedin.com/in/henry-bell-0989321a/",
+      "location": "Tyler, Texas",
+      "event_organized": "Tyler Area Chamber events, celebrating 125th anniversary in 2025",
+      "notes": "35+ years with Tyler Area Chamber"
+    },
+    {
+      "id": "scott-martinez",
+      "name": "Scott Martinez",
+      "company": "Tyler Area Chamber of Commerce / Tyler Economic Development Council",
+      "title": "CEO",
+      "linkedin_url": "https://www.tylertexas.com",
+      "location": "Tyler, Texas",
+      "event_organized": "Tyler Area Chamber events and economic development programs",
+      "notes": "CEO since July 2020, also President/CEO of Tyler Economic Development Council"
+    },
+    {
+      "id": "nicholas-atwood",
+      "name": "Nicholas Atwood",
+      "company": "Lubbock Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/nicholas-atwood-93062b93/",
+      "location": "Lubbock, Texas",
+      "event_organized": "Lubbock Chamber business events and networking programs",
+      "notes": "Appointed October 2025, 20+ years financial services leadership, first Texas Tech graduate to hold position"
+    },
+    {
+      "id": "jason-harrison",
+      "name": "Jason Harrison",
+      "company": "Amarillo Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/company/amarillochamber",
+      "location": "Amarillo, Texas",
+      "event_organized": "Amarillo Chamber events and business development programs",
+      "notes": "Named President/CEO December 2020, native of Amarillo, with chamber since 2007"
+    },
+    {
+      "id": "matt-meadors",
+      "name": "Matt Meadors",
+      "company": "Greater Waco Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/matt-meadors-05574714/",
+      "location": "Waco, Texas",
+      "event_organized": "Greater Waco Chamber events and Leadership Waco program",
+      "notes": "Responsible for execution of organization's strategic plan"
+    },
+    {
+      "id": "barry-albrecht",
+      "name": "Barry Albrecht",
+      "company": "Greater Killeen Chamber of Commerce",
+      "title": "President",
+      "linkedin_url": "https://www.linkedin.com/company/greater-killeen-chamber-of-commerce",
+      "location": "Killeen, Texas",
+      "event_organized": "Greater Killeen Chamber events and business programs",
+      "notes": "Certified Economic Development Master Practitioner (MEDP), previously CEO for multiple regional EDCs"
+    },
+    {
+      "id": "glen-brewer",
+      "name": "Glen Brewer",
+      "company": "Bryan/College Station Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/glen-brewer-110107114/",
+      "location": "Bryan/College Station, Texas",
+      "event_organized": "Bryan-College Station Chamber events and business programs",
+      "notes": "President & CEO of Bryan/College Station Chamber serving the Brazos Valley"
+    },
+    {
+      "id": "john-rangel",
+      "name": "John Rangel",
+      "company": "YPO San Antonio Chapter / TRDI Incorporated",
+      "title": "YPO Chapter Chair / President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/john-rangel-099603a9/",
+      "location": "San Antonio, Texas",
+      "event_organized": "YPO San Antonio chapter events and forums",
+      "notes": "Chair of YPO San Antonio Chapter"
+    },
+    {
+      "id": "taylor-engel",
+      "name": "Taylor Engel",
+      "company": "YPO Austin Gold",
+      "title": "Chapter Manager",
+      "linkedin_url": "https://www.linkedin.com/in/taylor-engel-45114a5/",
+      "location": "Austin, Texas",
+      "event_organized": "YPO Austin Gold chapter events",
+      "notes": "Chapter Manager for YPO Austin Gold"
+    },
+    {
+      "id": "monica-mccall",
+      "name": "Monica McCall",
+      "company": "YPO Austin",
+      "title": "Chapter Manager",
+      "linkedin_url": "https://www.linkedin.com/in/monica-mccall-52528b17a/",
+      "location": "Austin, Texas",
+      "event_organized": "YPO Austin chapter events",
+      "notes": "Chapter Manager for YPO Austin"
+    },
+    {
+      "id": "michael-heflin",
+      "name": "Michael Heflin",
+      "company": "C12 Group Central Texas",
+      "title": "Chairman",
+      "linkedin_url": "https://www.linkedin.com/in/michaelheflin/",
+      "location": "Central Texas",
+      "event_organized": "C12 peer advisory group meetings for Christian CEOs",
+      "notes": "Chairman C12 Group Central Texas, Christian CEO peer advisory network"
+    },
+    {
+      "id": "shawn-yates",
+      "name": "Shawn Yates",
+      "company": "C12 North Texas",
+      "title": "C12 Chair",
+      "linkedin_url": "https://www.linkedin.com/company/c12-north-texas",
+      "location": "Waco, Texas",
+      "event_organized": "C12 North Texas peer advisory group meetings",
+      "notes": "Named C12 Chair August 2022, serving North Texas market"
+    },
+    {
+      "id": "randy-griffin",
+      "name": "Randy Griffin",
+      "company": "C12 North Texas",
+      "title": "C12 Chair",
+      "linkedin_url": "https://www.linkedin.com/company/c12-north-texas",
+      "location": "Carrollton, Texas",
+      "event_organized": "C12 North Texas peer advisory group meetings",
+      "notes": "Named C12 Chair February 2024, serving North Texas with 27 business forums for 200+ leaders"
+    },
+    {
+      "id": "mark-taylor-bni",
+      "name": "Mark Taylor",
+      "company": "BNI Houston East and BNI East Texas",
+      "title": "Executive Director",
+      "linkedin_url": "https://www.linkedin.com/in/marktaylorbni/",
+      "location": "Houston, Texas",
+      "event_organized": "BNI Houston East networking events and business referral meetings",
+      "notes": "Executive Director for BNI Houston East and East Texas regions"
+    },
+    {
+      "id": "ragan-savedra",
+      "name": "Ragan Savedra",
+      "company": "BNI Houston",
+      "title": "Managing Director",
+      "linkedin_url": "https://www.linkedin.com/in/ragansavedra/",
+      "location": "Houston, Texas",
+      "event_organized": "BNI Houston West and Houston East regional events",
+      "notes": "Managing Director of Houston West & Houston East Regions"
+    },
+    {
+      "id": "kathy-mathy",
+      "name": "Kathy Mathy",
+      "company": "BNI Houston West Region",
+      "title": "Executive Director",
+      "linkedin_url": "https://www.linkedin.com/in/kathy-mathy-63aa8013/",
+      "location": "Houston, Texas",
+      "event_organized": "BNI Houston West networking meetings and events",
+      "notes": "Executive Director at BNI Houston West Region"
+    },
+    {
+      "id": "james-cooper-bni",
+      "name": "James Cooper",
+      "company": "BNI",
+      "title": "Senior Director of Regional Development",
+      "linkedin_url": "https://www.linkedin.com/in/james-cooper-ab316760/",
+      "location": "Spring, Texas",
+      "event_organized": "BNI regional development events and training",
+      "notes": "BNI Senior Director based in Spring, TX"
+    },
+    {
+      "id": "chris-koss",
+      "name": "Chris Koss",
+      "company": "BNI Business Network International",
+      "title": "Area Director Consultant for DFW",
+      "linkedin_url": "https://www.linkedin.com/in/chris-koss-62722024/",
+      "location": "Dallas-Fort Worth, Texas",
+      "event_organized": "BNI DFW networking events and chapter meetings",
+      "notes": "Area Director Consultant for Dallas-Fort Worth region"
+    },
+    {
+      "id": "thom-singer",
+      "name": "Thom Singer",
+      "company": "Austin Technology Council",
+      "title": "CEO / Keynote Speaker",
+      "linkedin_url": "https://www.linkedin.com/in/thomsinger/",
+      "location": "Austin, Texas",
+      "event_organized": "ATC CEO Summit, ATC events (represents 280 companies and 1,600+ executives)",
+      "notes": "CEO of Austin Technology Council, also professional keynote speaker"
+    },
+    {
+      "id": "kevin-fincher",
+      "name": "Kevin Fincher",
+      "company": "Austin Regional Manufacturers Association (ARMA)",
+      "title": "CEO & President",
+      "linkedin_url": "https://www.linkedin.com/in/kevinfincher/",
+      "location": "Austin, Texas",
+      "event_organized": "Central Texas Manufacturing Expo & Conference, ARMA networking events (30+ annual events)",
+      "notes": "Founding board member of ARMA, drives workforce development and networking for Austin manufacturing community"
+    },
+    {
+      "id": "richard-bennett",
+      "name": "Richard A. (Tony) Bennett",
+      "company": "Texas Association of Manufacturers",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/richard-a-tony-bennett-a4726131/",
+      "location": "Texas",
+      "event_organized": "Texas Manufacturers' Day at the Capitol, TAM conferences and advocacy events",
+      "notes": "Champions 500+ member companies, celebrated 20th anniversary in 2025"
+    },
+    {
+      "id": "jenna-saucedo-herrera",
+      "name": "Jenna Saucedo-Herrera",
+      "company": "Greater: SATX Regional Economic Partnership",
+      "title": "President & CEO",
+      "linkedin_url": "https://greatersatx.com",
+      "location": "San Antonio, Texas",
+      "event_organized": "Greater: SATX economic development summits and business events",
+      "notes": "President & CEO of organization (formerly San Antonio Economic Development Foundation), focuses on regional economy diversification and growth"
+    }
+  ]
+}

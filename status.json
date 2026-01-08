@@ -1,0 +1,623 @@
+{
+  "phase": "idle",
+  "current_prospect_id": null,
+  "searches": [
+    {"query": "EO chapter presidents Texas site:linkedin.com", "date": "2025-12-05", "count": 4},
+    {"query": "Vistage chairs Texas site:linkedin.com", "date": "2025-12-05", "count": 6},
+    {"query": "Chamber of Commerce presidents Texas site:linkedin.com", "date": "2025-12-05", "count": 20},
+    {"query": "YPO chapter managers Texas site:linkedin.com", "date": "2025-12-05", "count": 3},
+    {"query": "C12 chairs Texas site:linkedin.com", "date": "2025-12-05", "count": 3},
+    {"query": "BNI directors Texas site:linkedin.com", "date": "2025-12-05", "count": 5},
+    {"query": "business association presidents Texas site:linkedin.com", "date": "2025-12-05", "count": 10},
+    {"query": "Chamber of Commerce presidents Florida site:linkedin.com", "date": "2026-01-08", "count": 11},
+    {"query": "YPO chapter managers Florida site:linkedin.com", "date": "2026-01-08", "count": 4}
+  ],
+  "prospects": [
+    {
+      "id": "rob-enright",
+      "name": "Rob Enright",
+      "company": "EO Dallas",
+      "title": "Chapter President (former)",
+      "linkedin_url": "https://www.linkedin.com/in/enrightrob/",
+      "location": "Frisco, Texas",
+      "status": "skipped",
+      "skip_reason": "EO Dallas role was 2007-2009 (16+ years ago). Currently President at The Ward Group (media buying agency). No recent events organized - all LinkedIn activity is marketing content. Not an active event organizer."
+    },
+    {
+      "id": "jennifer-mcclanahan",
+      "name": "Jennifer McClanahan",
+      "company": "EO Houston Chapter",
+      "title": "Executive Director",
+      "linkedin_url": "https://www.linkedin.com/in/jennifer-mcclanahan-43985b181/",
+      "location": "Greater Houston",
+      "status": "complete",
+      "verified_event": "EO Houston Clubhouse Grand Opening",
+      "event_url": "https://www.businesswire.com/news/home/20240617376615/en/Entrepreneurs-Organization-EO-Houston-to-Host-Grand-Opening-and-Ribbon-Cutting-Ceremony-for-New-Clubhouse",
+      "message": "Jennifer, great work on the EO Houston Clubhouse Grand Opening. Looks like people loved it. I'd love to hire you for my AI Training workshops. May I share more?"
+    },
+    {
+      "id": "cliff-price",
+      "name": "Cliff Price",
+      "company": "EO Fort Worth",
+      "title": "Chapter President",
+      "linkedin_url": "https://www.linkedin.com/in/cliff-price-6a520a8/",
+      "location": "Southlake, Texas",
+      "status": "complete",
+      "verified_event": "EO XCentric 2024 - Unbridled",
+      "event_url": "https://eofortworth.org/eo-xcentric-2024-unbridled/",
+      "message": "Cliff, great work on EO XCentric 2024 - Unbridled. Looks like people loved it. I'd love to hire you for my AI Training workshops. May I share more?"
+    },
+    {
+      "id": "ed-stillman",
+      "name": "Ed Stillman",
+      "company": "Vistage Worldwide",
+      "title": "Vistage Chair",
+      "linkedin_url": "https://www.linkedin.com/in/edstillman/",
+      "location": "Austin, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "rod-keller",
+      "name": "Rod Keller",
+      "company": "Vistage",
+      "title": "Vistage Chair / CEO Executive Coach",
+      "linkedin_url": "https://www.linkedin.com/in/rodkeller1/",
+      "location": "Austin, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "dennis-howard",
+      "name": "Dennis Howard",
+      "company": "Vistage Worldwide",
+      "title": "Vistage Chair, PCC",
+      "linkedin_url": "https://www.linkedin.com/in/dennischoward/",
+      "location": "Dallas-Fort Worth Metroplex",
+      "status": "needs_research"
+    },
+    {
+      "id": "nicole-morris",
+      "name": "Nicole Morris",
+      "company": "ND Morris & Associates / Vistage",
+      "title": "Vistage Chair",
+      "linkedin_url": "https://www.linkedin.com/in/nicolemorris-mba/",
+      "location": "Houston, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "charles-marino",
+      "name": "Charles Marino",
+      "company": "Vistage International",
+      "title": "Master Chair",
+      "linkedin_url": "https://www.linkedin.com/in/charles-marino-6b940512/",
+      "location": "San Antonio, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "oscar-benavides",
+      "name": "Oscar Benavides",
+      "company": "Vistage",
+      "title": "Vistage Chair / Executive Coach",
+      "linkedin_url": "https://www.linkedin.com/in/coachoscbenavides/",
+      "location": "Dallas-Fort Worth Metroplex",
+      "status": "needs_research"
+    },
+    {
+      "id": "mike-rollins",
+      "name": "Mike Rollins",
+      "company": "Greater Austin Chamber of Commerce",
+      "title": "President",
+      "linkedin_url": "https://www.linkedin.com/in/mike-rollins-0238377/",
+      "location": "Austin, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "steve-montgomery",
+      "name": "Steve Montgomery",
+      "company": "Fort Worth Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/steve-montgomery-311717b/",
+      "location": "Fort Worth, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "ericka-garza",
+      "name": "Ericka Garza",
+      "company": "Fort Worth Hispanic Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/company/fwhcc",
+      "location": "Fort Worth, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "dale-petroskey",
+      "name": "Dale Petroskey",
+      "company": "Dallas Regional Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/dale-petroskey-3b2bb81b/",
+      "location": "Dallas, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "kelle-marsalis",
+      "name": "Kelle Marsalis",
+      "company": "Plano Chamber of Commerce",
+      "title": "President & CEO, CCE, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/kellemarsalis/",
+      "location": "Plano, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "christal-howard",
+      "name": "Christal Howard",
+      "company": "Frisco Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/christal-bennett-howard-9460028/",
+      "location": "Frisco, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "beth-bowman",
+      "name": "Beth Bowman",
+      "company": "Greater Irving - Las Colinas Chamber of Commerce",
+      "title": "President & CEO, IOM, CCE",
+      "linkedin_url": "https://www.linkedin.com/in/bethbowman/",
+      "location": "Irving, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "lisa-hermes",
+      "name": "Lisa Hermes",
+      "company": "McKinney Chamber of Commerce",
+      "title": "President & CEO, CCE, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/lhermes/",
+      "location": "McKinney, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "kyle-jacobson",
+      "name": "Kyle Jacobson",
+      "company": "Allen Fairview Chamber of Commerce",
+      "title": "President & CEO, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/kylejacobson11",
+      "location": "Allen, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "al-arreola",
+      "name": "Al Arreola Jr.",
+      "company": "United Corpus Christi Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://unitedcorpuschristi.org",
+      "location": "Corpus Christi, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "ricardo-mora",
+      "name": "Ricardo Mora",
+      "company": "El Paso Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/company/greater-el-paso-chamber-of-commerce",
+      "location": "El Paso, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "steve-kean",
+      "name": "Steve Kean",
+      "company": "Greater Houston Partnership",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/company/ghpartnership",
+      "location": "Houston, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "keri-schmidt",
+      "name": "Keri Schmidt",
+      "company": "Fort Bend Chamber of Commerce",
+      "title": "President & CEO, CCE, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/keri-curtis-schmidt-cce-iom-381096a/",
+      "location": "Sugar Land, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "jordan-robinson",
+      "name": "Jordan Robinson",
+      "company": "Round Rock Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/jordanlrobinson85/",
+      "location": "Round Rock, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "aaron-cox",
+      "name": "Aaron Cox",
+      "company": "The Woodlands Area Chamber of Commerce",
+      "title": "President & CEO, IOM",
+      "linkedin_url": "https://www.linkedin.com/company/the-woodlands-area-chamber-of-commerce",
+      "location": "The Woodlands, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "shontel-mays",
+      "name": "Shontel Mays",
+      "company": "Georgetown Chamber of Commerce",
+      "title": "President & CEO, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/shontel-mays",
+      "location": "Georgetown, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "bridget-brandt",
+      "name": "Bridget L. Brandt",
+      "company": "Leander Chamber of Commerce",
+      "title": "President",
+      "linkedin_url": "https://www.linkedin.com/company/leander-chamber-of-commerce",
+      "location": "Leander, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "glenn-hamer",
+      "name": "Glenn Hamer",
+      "company": "Texas Association of Business",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/glenn-hamer-50674b5/",
+      "location": "Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "monica-munoz-andry",
+      "name": "Monica Munoz Andry",
+      "company": "Greater Austin Hispanic Chamber of Commerce (GAHCC)",
+      "title": "President and CEO",
+      "linkedin_url": "https://www.linkedin.com/in/monica-munoz-andry/",
+      "location": "Austin, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "page-michel",
+      "name": "Page Michel",
+      "company": "San Marcos Area Chamber of Commerce",
+      "title": "President & CEO, IOM",
+      "linkedin_url": "https://www.linkedin.com/in/pagemichel/",
+      "location": "San Marcos, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "henry-bell",
+      "name": "Henry Bell",
+      "company": "Tyler Area Chamber of Commerce",
+      "title": "President",
+      "linkedin_url": "https://www.linkedin.com/in/henry-bell-0989321a/",
+      "location": "Tyler, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "scott-martinez",
+      "name": "Scott Martinez",
+      "company": "Tyler Area Chamber of Commerce / Tyler Economic Development Council",
+      "title": "CEO",
+      "linkedin_url": "https://www.tylertexas.com",
+      "location": "Tyler, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "nicholas-atwood",
+      "name": "Nicholas Atwood",
+      "company": "Lubbock Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/nicholas-atwood-93062b93/",
+      "location": "Lubbock, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "jason-harrison",
+      "name": "Jason Harrison",
+      "company": "Amarillo Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/company/amarillochamber",
+      "location": "Amarillo, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "matt-meadors",
+      "name": "Matt Meadors",
+      "company": "Greater Waco Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/matt-meadors-05574714/",
+      "location": "Waco, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "barry-albrecht",
+      "name": "Barry Albrecht",
+      "company": "Greater Killeen Chamber of Commerce",
+      "title": "President",
+      "linkedin_url": "https://www.linkedin.com/company/greater-killeen-chamber-of-commerce",
+      "location": "Killeen, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "glen-brewer",
+      "name": "Glen Brewer",
+      "company": "Bryan/College Station Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/glen-brewer-110107114/",
+      "location": "Bryan/College Station, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "john-rangel",
+      "name": "John Rangel",
+      "company": "YPO San Antonio Chapter / TRDI Incorporated",
+      "title": "YPO Chapter Chair / President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/john-rangel-099603a9/",
+      "location": "San Antonio, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "taylor-engel",
+      "name": "Taylor Engel",
+      "company": "YPO Austin Gold",
+      "title": "Chapter Manager",
+      "linkedin_url": "https://www.linkedin.com/in/taylor-engel-45114a5/",
+      "location": "Austin, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "monica-mccall",
+      "name": "Monica McCall",
+      "company": "YPO Austin",
+      "title": "Chapter Manager",
+      "linkedin_url": "https://www.linkedin.com/in/monica-mccall-52528b17a/",
+      "location": "Austin, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "michael-heflin",
+      "name": "Michael Heflin",
+      "company": "C12 Group Central Texas",
+      "title": "Chairman",
+      "linkedin_url": "https://www.linkedin.com/in/michaelheflin/",
+      "location": "Central Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "shawn-yates",
+      "name": "Shawn Yates",
+      "company": "C12 North Texas",
+      "title": "C12 Chair",
+      "linkedin_url": "https://www.linkedin.com/company/c12-north-texas",
+      "location": "Waco, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "randy-griffin",
+      "name": "Randy Griffin",
+      "company": "C12 North Texas",
+      "title": "C12 Chair",
+      "linkedin_url": "https://www.linkedin.com/company/c12-north-texas",
+      "location": "Carrollton, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "mark-taylor-bni",
+      "name": "Mark Taylor",
+      "company": "BNI Houston East and BNI East Texas",
+      "title": "Executive Director",
+      "linkedin_url": "https://www.linkedin.com/in/marktaylorbni/",
+      "location": "Houston, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "ragan-savedra",
+      "name": "Ragan Savedra",
+      "company": "BNI Houston",
+      "title": "Managing Director",
+      "linkedin_url": "https://www.linkedin.com/in/ragansavedra/",
+      "location": "Houston, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "kathy-mathy",
+      "name": "Kathy Mathy",
+      "company": "BNI Houston West Region",
+      "title": "Executive Director",
+      "linkedin_url": "https://www.linkedin.com/in/kathy-mathy-63aa8013/",
+      "location": "Houston, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "james-cooper-bni",
+      "name": "James Cooper",
+      "company": "BNI",
+      "title": "Senior Director of Regional Development",
+      "linkedin_url": "https://www.linkedin.com/in/james-cooper-ab316760/",
+      "location": "Spring, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "chris-koss",
+      "name": "Chris Koss",
+      "company": "BNI Business Network International",
+      "title": "Area Director Consultant for DFW",
+      "linkedin_url": "https://www.linkedin.com/in/chris-koss-62722024/",
+      "location": "Dallas-Fort Worth, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "thom-singer",
+      "name": "Thom Singer",
+      "company": "Austin Technology Council",
+      "title": "CEO / Keynote Speaker",
+      "linkedin_url": "https://www.linkedin.com/in/thomsinger/",
+      "location": "Austin, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "kevin-fincher",
+      "name": "Kevin Fincher",
+      "company": "Austin Regional Manufacturers Association (ARMA)",
+      "title": "CEO & President",
+      "linkedin_url": "https://www.linkedin.com/in/kevinfincher/",
+      "location": "Austin, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "richard-bennett",
+      "name": "Richard A. (Tony) Bennett",
+      "company": "Texas Association of Manufacturers",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/richard-a-tony-bennett-a4726131/",
+      "location": "Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "jenna-saucedo-herrera",
+      "name": "Jenna Saucedo-Herrera",
+      "company": "Greater: SATX Regional Economic Partnership",
+      "title": "President & CEO",
+      "linkedin_url": "https://greatersatx.com",
+      "location": "San Antonio, Texas",
+      "status": "needs_research"
+    },
+    {
+      "id": "brittnie-bassant",
+      "name": "Brittnie Bassant",
+      "company": "Miami Beach Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/brittniebassant/",
+      "location": "Miami Beach, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "mark-wilson-fl",
+      "name": "Mark Wilson",
+      "company": "Florida Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/mark-wilson-4527a9211",
+      "location": "Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "bill-wood",
+      "name": "Bill Wood",
+      "company": "Greater Delray Beach Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/bill-wood-3638379/",
+      "location": "Delray Beach, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "bob-rohrlack",
+      "name": "Dr. Bob Rohrlack",
+      "company": "Tampa Bay Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/drbob-rohrlack/",
+      "location": "Tampa Bay, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "david-colby",
+      "name": "David Colby",
+      "company": "South Lake Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/david-colby-0208469/",
+      "location": "Clermont, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "heather-kasten",
+      "name": "Heather Kasten",
+      "company": "Greater Sarasota Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/heather-kasten-80938615/",
+      "location": "Sarasota, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "al-otero",
+      "name": "Al Otero",
+      "company": "Broward County Chamber of Commerce",
+      "title": "Executive Director",
+      "linkedin_url": "https://www.linkedin.com/in/al-otero-82a9839/",
+      "location": "Fort Lauderdale, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "michael-dalby",
+      "name": "Michael Dalby",
+      "company": "Greater Tallahassee Chamber of Commerce",
+      "title": "Chamber of Commerce Executive",
+      "linkedin_url": "https://www.linkedin.com/in/michaeldalby/",
+      "location": "Tallahassee, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "douglas-evans",
+      "name": "Douglas C. Evans",
+      "company": "Palm Beach Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/douglas-c-evans-32bb7320/",
+      "location": "Palm Beach, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "noel-martinez",
+      "name": "Noel Martinez",
+      "company": "Palm Beach North Chamber of Commerce",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/noelmartinez/",
+      "location": "Palm Beach Gardens, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "todd-thomson",
+      "name": "Todd Thomson",
+      "company": "Greater Pensacola Chamber",
+      "title": "President & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/todd-thomson-b6239a18/",
+      "location": "Pensacola, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "bob-davis-ypo",
+      "name": "Bob Davis",
+      "company": "YPO Florida",
+      "title": "Chapter Manager",
+      "linkedin_url": "https://www.linkedin.com/in/bob-davis-b8549151",
+      "location": "Land O' Lakes, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "robyn-yglesias",
+      "name": "Robyn Yglesias",
+      "company": "YPO Miami Gold Chapter / YPO Bahamas",
+      "title": "Chapter Manager",
+      "linkedin_url": "https://www.linkedin.com/in/robynyglesias/",
+      "location": "Palm Beach Gardens, Florida",
+      "status": "needs_research"
+    },
+    {
+      "id": "jamie-hubbard",
+      "name": "Jamie Hubbard",
+      "company": "YPO Southern 7 Gold Chapter",
+      "title": "Chapter Director",
+      "linkedin_url": "https://www.linkedin.com/in/jamie-hubbard-3310a58/",
+      "location": "Atlanta, Georgia",
+      "status": "needs_research"
+    },
+    {
+      "id": "amanda-berry",
+      "name": "Amanda Berry",
+      "company": "YPO Southern 7 Chapter",
+      "title": "Chapter Manager",
+      "linkedin_url": "https://www.linkedin.com/in/amandalberry/",
+      "location": "Kennesaw, Georgia",
+      "status": "needs_research"
+    }
+  ],
+  "activity": [
+    {"timestamp": "2026-01-08T12:00:00Z", "event": "research_complete", "prospect_id": "jennifer-mcclanahan", "details": "Verified event: EO Houston Clubhouse Grand Opening (June 2024). Jennifer McClanahan listed as contact on Business Wire press release."},
+    {"timestamp": "2026-01-08T14:30:00Z", "event": "research_complete", "prospect_id": "cliff-price", "details": "Verified event: EO XCentric 2024 - Unbridled (October 27-29, 2024). Cliff Price confirmed as EO Fort Worth Chapter President and was on the 2024 XCentric Planning Committee. Event verified on eofortworth.org."},
+    {"timestamp": "2026-01-08T16:45:00Z", "event": "research_skipped", "prospect_id": "rob-enright", "details": "Skipped: EO Dallas Board President role was 2007-2009 (16+ years ago). Currently President at The Ward Group media buying agency since 2001. LinkedIn activity shows only marketing content, no event organization. Not a fit - outdated EO connection and not an active event organizer."}
+  ]
+}
