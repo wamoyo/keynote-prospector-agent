@@ -2,19 +2,55 @@
   "phase": "idle",
   "current_prospect_id": null,
   "searches": [
-    {"query": "EO chapter presidents Texas site:linkedin.com", "date": "2025-12-05", "count": 4},
-    {"query": "Vistage chairs Texas site:linkedin.com", "date": "2025-12-05", "count": 6},
-    {"query": "Chamber of Commerce presidents Texas site:linkedin.com", "date": "2025-12-05", "count": 20},
-    {"query": "YPO chapter managers Texas site:linkedin.com", "date": "2025-12-05", "count": 3},
-    {"query": "C12 chairs Texas site:linkedin.com", "date": "2025-12-05", "count": 3},
-    {"query": "BNI directors Texas site:linkedin.com", "date": "2025-12-05", "count": 5},
-    {"query": "business association presidents Texas site:linkedin.com", "date": "2025-12-05", "count": 10},
-    {"query": "Chamber of Commerce presidents Florida site:linkedin.com", "date": "2026-01-08", "count": 11},
-    {"query": "YPO chapter managers Florida site:linkedin.com", "date": "2026-01-08", "count": 4}
+    {
+      "query": "EO chapter presidents Texas site:linkedin.com",
+      "date": "2025-12-05",
+      "count": 4
+    },
+    {
+      "query": "Vistage chairs Texas site:linkedin.com",
+      "date": "2025-12-05",
+      "count": 6
+    },
+    {
+      "query": "Chamber of Commerce presidents Texas site:linkedin.com",
+      "date": "2025-12-05",
+      "count": 20
+    },
+    {
+      "query": "YPO chapter managers Texas site:linkedin.com",
+      "date": "2025-12-05",
+      "count": 3
+    },
+    {
+      "query": "C12 chairs Texas site:linkedin.com",
+      "date": "2025-12-05",
+      "count": 3
+    },
+    {
+      "query": "BNI directors Texas site:linkedin.com",
+      "date": "2025-12-05",
+      "count": 5
+    },
+    {
+      "query": "business association presidents Texas site:linkedin.com",
+      "date": "2025-12-05",
+      "count": 10
+    },
+    {
+      "query": "Chamber of Commerce presidents Florida site:linkedin.com",
+      "date": "2026-01-08",
+      "count": 11
+    },
+    {
+      "query": "YPO chapter managers Florida site:linkedin.com",
+      "date": "2026-01-08",
+      "count": 4
+    }
   ],
   "prospects": [
     {
-      "id": "rob-enright",
+      "id": "rob-enright#linkedin.com/in/enrightrob",
       "name": "Rob Enright",
       "company": "EO Dallas",
       "title": "Chapter President (former)",
@@ -25,7 +61,7 @@
       "source_search": "EO chapter presidents Texas"
     },
     {
-      "id": "jennifer-mcclanahan",
+      "id": "jennifer-mcclanahan#linkedin.com/in/jennifer-mcclanahan-43985b181",
       "name": "Jennifer McClanahan",
       "company": "EO Houston Chapter",
       "title": "Executive Director",
@@ -38,7 +74,7 @@
       "source_search": "EO chapter presidents Texas"
     },
     {
-      "id": "cliff-price",
+      "id": "cliff-price#linkedin.com/in/cliff-price-6a520a8",
       "name": "Cliff Price",
       "company": "EO Fort Worth",
       "title": "Chapter President",
@@ -51,7 +87,7 @@
       "source_search": "EO chapter presidents Texas"
     },
     {
-      "id": "ed-stillman",
+      "id": "ed-stillman#linkedin.com/in/edstillman",
       "name": "Ed Stillman",
       "company": "VistageAustin",
       "title": "Executive Coach | Peer Group Leader",
@@ -64,7 +100,7 @@
       "source_search": "Vistage chairs Texas"
     },
     {
-      "id": "rod-keller",
+      "id": "rod-keller#linkedin.com/in/rodkeller1",
       "name": "Rod Keller",
       "company": "Vistage Worldwide, Inc.",
       "title": "CEO/Executive Coach | Vistage Chair, CEO Advisory Board",
@@ -75,7 +111,7 @@
       "source_search": "Vistage chairs Texas"
     },
     {
-      "id": "dennis-howard",
+      "id": "dennis-howard#linkedin.com/in/dennischoward",
       "name": "Dennis Howard",
       "company": "Vistage Worldwide, Inc.",
       "title": "Professional Certified Performance Coach for CEOs, CEO Peer Group Facilitator, Speaker, and Entrepreneur",
@@ -86,7 +122,7 @@
       "source_search": "Vistage chairs Texas"
     },
     {
-      "id": "nicole-morris",
+      "id": "nicole-nik-morris#linkedin.com/in/nicolemorris-mba",
       "name": "Nicole (Nik) Morris",
       "company": "Vistage",
       "title": "CEO Whisperer | Executive Coach & AI Leadership Strategist",
@@ -97,7 +133,7 @@
       "source_search": "Vistage chairs Texas"
     },
     {
-      "id": "charles-marino",
+      "id": "charles-marino#linkedin.com/in/charles-marino-6b940512",
       "name": "Charles Marino",
       "company": "Vistage International",
       "title": "Master Chair",
@@ -108,7 +144,7 @@
       "source_search": "Vistage chairs Texas"
     },
     {
-      "id": "oscar-benavides",
+      "id": "oscar-benavides#linkedin.com/in/coachoscbenavides",
       "name": "Oscar Benavides",
       "company": "Vistage Worldwide, Inc.",
       "title": "Vistage Chair | Executive Coach | 'Chair of Excellence' Award Winner",
@@ -121,7 +157,7 @@
       "source_search": "Vistage chairs Texas"
     },
     {
-      "id": "mike-rollins",
+      "id": "mike-rollins#linkedin.com/in/mike-rollins-0238377",
       "name": "Mike Rollins",
       "company": "Greater Austin Chamber of Commerce",
       "title": "President",
@@ -134,7 +170,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "steve-montgomery",
+      "id": "steve-montgomery#linkedin.com/in/steve-montgomery-311717b",
       "name": "Steve Montgomery",
       "company": "Fort Worth Chamber",
       "title": "President & CEO",
@@ -147,7 +183,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "ericka-garza",
+      "id": "ericka-garza#linkedin.com/in/ericka-garza",
       "name": "Ericka Garza",
       "company": "Fort Worth Hispanic Chamber of Commerce",
       "title": "President & CEO",
@@ -160,7 +196,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "dale-petroskey",
+      "id": "dale-petroskey#linkedin.com/in/dale-petroskey-3b2bb81b",
       "name": "Dale Petroskey",
       "company": "Dallas Regional Chamber",
       "title": "President & CEO",
@@ -173,7 +209,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "kelle-marsalis",
+      "id": "kelle-marsalis#linkedin.com/in/kellemarsalis",
       "name": "Kelle Marsalis",
       "company": "Plano Chamber of Commerce",
       "title": "President & CEO | Certified Chamber Executive",
@@ -186,7 +222,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "christal-howard",
+      "id": "christal-bennett-howard#linkedin.com/in/christal-bennett-howard-9460028",
       "name": "Christal Bennett Howard",
       "company": "Frisco Chamber of Commerce",
       "title": "President & CEO",
@@ -199,7 +235,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "beth-bowman",
+      "id": "beth-a-bowman#linkedin.com/in/bethbowman",
       "name": "Beth A. Bowman",
       "company": "Greater Irving-Las Colinas Chamber of Commerce",
       "title": "President & CEO, IOM, CCE",
@@ -212,7 +248,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "lisa-hermes",
+      "id": "lisa-hermes#linkedin.com/in/lhermes",
       "name": "Lisa Hermes",
       "company": "McKinney Chamber of Commerce",
       "title": "President & CEO, CCE, IOM",
@@ -225,7 +261,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "kyle-jacobson",
+      "id": "kyle-jacobson#linkedin.com/in/kylejacobson11",
       "name": "Kyle Jacobson",
       "company": "Allen Fairview Chamber of Commerce",
       "title": "CEO, IOM",
@@ -238,7 +274,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "al-arreola",
+      "id": "al-arreola-jr#linkedin.com/in/alarreola",
       "name": "Al Arreola Jr.",
       "company": "United Corpus Christi Chamber of Commerce",
       "title": "President & CEO",
@@ -251,7 +287,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "ricardo-mora",
+      "id": "ricardo-mora#linkedin.com/in/ricardomoradiaz",
       "name": "Ricardo Mora",
       "company": "El Paso Chamber",
       "title": "President & CEO",
@@ -264,47 +300,59 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "steve-kean",
+      "id": "steve-kean#linkedin.com/company/ghpartnership",
       "name": "Steve Kean",
       "company": "Greater Houston Partnership",
       "title": "President & CEO",
       "linkedin_url": "https://www.linkedin.com/company/ghpartnership",
       "location": "Houston, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "Greater Houston Partnership 2025 Annual Meeting",
+      "event_url": "https://www.houston.org/news/greater-houston-partnership-unveils-new-five-year-strategic-framework/",
+      "message": "Steve, nice work on the Greater Houston Partnership 2025 Annual Meeting. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "keri-schmidt",
-      "name": "Keri Schmidt",
+      "id": "keri-curtis-schmidt#linkedin.com/in/keri-curtis-schmidt-cce-iom-381096a",
+      "name": "Keri Curtis Schmidt",
       "company": "Fort Bend Chamber of Commerce",
       "title": "President & CEO, CCE, IOM",
       "linkedin_url": "https://www.linkedin.com/in/keri-curtis-schmidt-cce-iom-381096a/",
       "location": "Sugar Land, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "2026 Fort Bend Chamber Chairman's Gala",
+      "event_url": "https://business.fortbendchamber.com/events/details/2026-fort-bend-chamber-chairman-s-gala-2072206",
+      "message": "Keri, nice work on the 2026 Fort Bend Chamber Chairman's Gala. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "jordan-robinson",
+      "id": "jordan-robinson#linkedin.com/in/jordanlrobinson85",
       "name": "Jordan Robinson",
       "company": "Round Rock Chamber",
       "title": "President & CEO",
       "linkedin_url": "https://www.linkedin.com/in/jordanlrobinson85/",
       "location": "Round Rock, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "State of the Chamber Power Lunch",
+      "event_url": "https://www.linkedin.com/feed/update/urn:li:activity:7414705995177738240/",
+      "message": "Jordan, nice work on the State of the Chamber Power Lunch. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "aaron-cox",
+      "id": "aaron-cox#linkedin.com/in/aaron-cox-iom-1381b444",
       "name": "Aaron Cox",
       "company": "The Woodlands Area Chamber of Commerce",
       "title": "President & CEO, IOM",
-      "linkedin_url": "https://www.linkedin.com/company/the-woodlands-area-chamber-of-commerce",
+      "linkedin_url": "https://www.linkedin.com/in/aaron-cox-iom-1381b444/",
       "location": "The Woodlands, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "2026 Economic Outlook Conference",
+      "event_url": "https://www.woodlandschamber.org/economic-outlook-conference/",
+      "message": "Aaron, nice work on the 2026 Economic Outlook Conference. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "shontel-mays",
+      "id": "shontel-mays#linkedin.com/in/shontel-mays",
       "name": "Shontel Mays",
       "company": "Georgetown Chamber of Commerce",
       "title": "President & CEO, IOM",
@@ -314,7 +362,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "bridget-brandt",
+      "id": "bridget-l-brandt#linkedin.com/company/leander-chamber-of-commerce",
       "name": "Bridget L. Brandt",
       "company": "Leander Chamber of Commerce",
       "title": "President",
@@ -324,7 +372,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "glenn-hamer",
+      "id": "glenn-hamer#linkedin.com/in/glenn-hamer-50674b5",
       "name": "Glenn Hamer",
       "company": "Texas Association of Business",
       "title": "President & CEO",
@@ -334,7 +382,7 @@
       "source_search": "business association presidents Texas"
     },
     {
-      "id": "monica-munoz-andry",
+      "id": "monica-munoz-andry#linkedin.com/in/monica-munoz-andry",
       "name": "Monica Munoz Andry",
       "company": "Greater Austin Hispanic Chamber of Commerce (GAHCC)",
       "title": "President and CEO",
@@ -344,7 +392,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "page-michel",
+      "id": "page-michel#linkedin.com/in/pagemichel",
       "name": "Page Michel",
       "company": "San Marcos Area Chamber of Commerce",
       "title": "President & CEO, IOM",
@@ -354,7 +402,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "henry-bell",
+      "id": "henry-bell#linkedin.com/in/henry-bell-0989321a",
       "name": "Henry Bell",
       "company": "Tyler Area Chamber of Commerce",
       "title": "President",
@@ -364,7 +412,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "scott-martinez",
+      "id": "scott-martinez#tylertexas.com",
       "name": "Scott Martinez",
       "company": "Tyler Area Chamber of Commerce / Tyler Economic Development Council",
       "title": "CEO",
@@ -374,7 +422,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "nicholas-atwood",
+      "id": "nicholas-atwood#linkedin.com/in/nicholas-atwood-93062b93",
       "name": "Nicholas Atwood",
       "company": "Lubbock Chamber of Commerce",
       "title": "President & CEO",
@@ -384,7 +432,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "jason-harrison",
+      "id": "jason-harrison#linkedin.com/company/amarillochamber",
       "name": "Jason Harrison",
       "company": "Amarillo Chamber of Commerce",
       "title": "President & CEO",
@@ -394,7 +442,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "matt-meadors",
+      "id": "matt-meadors#linkedin.com/in/matt-meadors-05574714",
       "name": "Matt Meadors",
       "company": "Greater Waco Chamber",
       "title": "President & CEO",
@@ -404,7 +452,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "barry-albrecht",
+      "id": "barry-albrecht#linkedin.com/company/greater-killeen-chamber-of-commerce",
       "name": "Barry Albrecht",
       "company": "Greater Killeen Chamber of Commerce",
       "title": "President",
@@ -414,7 +462,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "glen-brewer",
+      "id": "glen-brewer#linkedin.com/in/glen-brewer-110107114",
       "name": "Glen Brewer",
       "company": "Bryan/College Station Chamber of Commerce",
       "title": "President & CEO",
@@ -424,7 +472,7 @@
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "john-rangel",
+      "id": "john-rangel#linkedin.com/in/john-rangel-099603a9",
       "name": "John Rangel",
       "company": "YPO San Antonio Chapter / TRDI Incorporated",
       "title": "YPO Chapter Chair / President & CEO",
@@ -434,7 +482,7 @@
       "source_search": "YPO chapter managers Texas"
     },
     {
-      "id": "taylor-engel",
+      "id": "taylor-engel#linkedin.com/in/taylor-engel-45114a5",
       "name": "Taylor Engel",
       "company": "YPO Austin Gold",
       "title": "Chapter Manager",
@@ -444,7 +492,7 @@
       "source_search": "YPO chapter managers Texas"
     },
     {
-      "id": "monica-mccall",
+      "id": "monica-mccall#linkedin.com/in/monica-mccall-52528b17a",
       "name": "Monica McCall",
       "company": "YPO Austin",
       "title": "Chapter Manager",
@@ -454,7 +502,7 @@
       "source_search": "YPO chapter managers Texas"
     },
     {
-      "id": "michael-heflin",
+      "id": "michael-heflin#linkedin.com/in/michaelheflin",
       "name": "Michael Heflin",
       "company": "C12 Group Central Texas",
       "title": "Chairman",
@@ -464,7 +512,7 @@
       "source_search": "C12 chairs Texas"
     },
     {
-      "id": "shawn-yates",
+      "id": "shawn-yates#linkedin.com/company/c12-north-texas",
       "name": "Shawn Yates",
       "company": "C12 North Texas",
       "title": "C12 Chair",
@@ -474,7 +522,7 @@
       "source_search": "C12 chairs Texas"
     },
     {
-      "id": "randy-griffin",
+      "id": "randy-griffin#linkedin.com/company/c12-north-texas",
       "name": "Randy Griffin",
       "company": "C12 North Texas",
       "title": "C12 Chair",
@@ -484,7 +532,7 @@
       "source_search": "C12 chairs Texas"
     },
     {
-      "id": "mark-taylor-bni",
+      "id": "mark-taylor#linkedin.com/in/marktaylorbni",
       "name": "Mark Taylor",
       "company": "BNI Houston East and BNI East Texas",
       "title": "Executive Director",
@@ -494,7 +542,7 @@
       "source_search": "BNI directors Texas"
     },
     {
-      "id": "ragan-savedra",
+      "id": "ragan-savedra#linkedin.com/in/ragansavedra",
       "name": "Ragan Savedra",
       "company": "BNI Houston",
       "title": "Managing Director",
@@ -504,7 +552,7 @@
       "source_search": "BNI directors Texas"
     },
     {
-      "id": "kathy-mathy",
+      "id": "kathy-mathy#linkedin.com/in/kathy-mathy-63aa8013",
       "name": "Kathy Mathy",
       "company": "BNI Houston West Region",
       "title": "Executive Director",
@@ -514,7 +562,7 @@
       "source_search": "BNI directors Texas"
     },
     {
-      "id": "james-cooper-bni",
+      "id": "james-cooper#linkedin.com/in/james-cooper-ab316760",
       "name": "James Cooper",
       "company": "BNI",
       "title": "Senior Director of Regional Development",
@@ -524,7 +572,7 @@
       "source_search": "BNI directors Texas"
     },
     {
-      "id": "chris-koss",
+      "id": "chris-koss#linkedin.com/in/chris-koss-62722024",
       "name": "Chris Koss",
       "company": "BNI Business Network International",
       "title": "Area Director Consultant for DFW",
@@ -534,7 +582,7 @@
       "source_search": "BNI directors Texas"
     },
     {
-      "id": "thom-singer",
+      "id": "thom-singer#linkedin.com/in/thomsinger",
       "name": "Thom Singer",
       "company": "Austin Technology Council",
       "title": "CEO / Keynote Speaker",
@@ -544,7 +592,7 @@
       "source_search": "business association presidents Texas"
     },
     {
-      "id": "kevin-fincher",
+      "id": "kevin-fincher#linkedin.com/in/kevinfincher",
       "name": "Kevin Fincher",
       "company": "Austin Regional Manufacturers Association (ARMA)",
       "title": "CEO & President",
@@ -554,7 +602,7 @@
       "source_search": "business association presidents Texas"
     },
     {
-      "id": "richard-bennett",
+      "id": "richard-a-tony-bennett#linkedin.com/in/richard-a-tony-bennett-a4726131",
       "name": "Richard A. (Tony) Bennett",
       "company": "Texas Association of Manufacturers",
       "title": "President & CEO",
@@ -564,7 +612,7 @@
       "source_search": "business association presidents Texas"
     },
     {
-      "id": "jenna-saucedo-herrera",
+      "id": "jenna-saucedo-herrera#greatersatx.com",
       "name": "Jenna Saucedo-Herrera",
       "company": "Greater: SATX Regional Economic Partnership",
       "title": "President & CEO",
@@ -574,7 +622,7 @@
       "source_search": "business association presidents Texas"
     },
     {
-      "id": "brittnie-bassant",
+      "id": "brittnie-bassant#linkedin.com/in/brittniebassant",
       "name": "Brittnie Bassant",
       "company": "Miami Beach Chamber of Commerce",
       "title": "President & CEO",
@@ -584,7 +632,7 @@
       "source_search": "Chamber of Commerce presidents Florida"
     },
     {
-      "id": "mark-wilson-fl",
+      "id": "mark-wilson#linkedin.com/in/mark-wilson-4527a9211",
       "name": "Mark Wilson",
       "company": "Florida Chamber of Commerce",
       "title": "President & CEO",
@@ -594,7 +642,7 @@
       "source_search": "Chamber of Commerce presidents Florida"
     },
     {
-      "id": "bill-wood",
+      "id": "bill-wood#linkedin.com/in/bill-wood-3638379",
       "name": "Bill Wood",
       "company": "Greater Delray Beach Chamber of Commerce",
       "title": "President & CEO",
@@ -604,7 +652,7 @@
       "source_search": "Chamber of Commerce presidents Florida"
     },
     {
-      "id": "bob-rohrlack",
+      "id": "dr-bob-rohrlack#linkedin.com/in/drbob-rohrlack",
       "name": "Dr. Bob Rohrlack",
       "company": "Tampa Bay Chamber",
       "title": "President & CEO",
@@ -614,7 +662,7 @@
       "source_search": "Chamber of Commerce presidents Florida"
     },
     {
-      "id": "david-colby",
+      "id": "david-colby#linkedin.com/in/david-colby-0208469",
       "name": "David Colby",
       "company": "South Lake Chamber of Commerce",
       "title": "President & CEO",
@@ -624,7 +672,7 @@
       "source_search": "Chamber of Commerce presidents Florida"
     },
     {
-      "id": "heather-kasten",
+      "id": "heather-kasten#linkedin.com/in/heather-kasten-80938615",
       "name": "Heather Kasten",
       "company": "Greater Sarasota Chamber of Commerce",
       "title": "President & CEO",
@@ -634,7 +682,7 @@
       "source_search": "Chamber of Commerce presidents Florida"
     },
     {
-      "id": "al-otero",
+      "id": "al-otero#linkedin.com/in/al-otero-82a9839",
       "name": "Al Otero",
       "company": "Broward County Chamber of Commerce",
       "title": "Executive Director",
@@ -644,7 +692,7 @@
       "source_search": "Chamber of Commerce presidents Florida"
     },
     {
-      "id": "michael-dalby",
+      "id": "michael-dalby#linkedin.com/in/michaeldalby",
       "name": "Michael Dalby",
       "company": "Greater Tallahassee Chamber of Commerce",
       "title": "Chamber of Commerce Executive",
@@ -654,7 +702,7 @@
       "source_search": "Chamber of Commerce presidents Florida"
     },
     {
-      "id": "douglas-evans",
+      "id": "douglas-c-evans#linkedin.com/in/douglas-c-evans-32bb7320",
       "name": "Douglas C. Evans",
       "company": "Palm Beach Chamber of Commerce",
       "title": "President & CEO",
@@ -664,7 +712,7 @@
       "source_search": "Chamber of Commerce presidents Florida"
     },
     {
-      "id": "noel-martinez",
+      "id": "noel-martinez#linkedin.com/in/noelmartinez",
       "name": "Noel Martinez",
       "company": "Palm Beach North Chamber of Commerce",
       "title": "President & CEO",
@@ -674,7 +722,7 @@
       "source_search": "Chamber of Commerce presidents Florida"
     },
     {
-      "id": "todd-thomson",
+      "id": "todd-thomson#linkedin.com/in/todd-thomson-b6239a18",
       "name": "Todd Thomson",
       "company": "Greater Pensacola Chamber",
       "title": "President & CEO",
@@ -684,7 +732,7 @@
       "source_search": "Chamber of Commerce presidents Florida"
     },
     {
-      "id": "bob-davis-ypo",
+      "id": "bob-davis#linkedin.com/in/bob-davis-b8549151",
       "name": "Bob Davis",
       "company": "YPO Florida",
       "title": "Chapter Manager",
@@ -694,7 +742,7 @@
       "source_search": "YPO chapter managers Florida"
     },
     {
-      "id": "robyn-yglesias",
+      "id": "robyn-yglesias#linkedin.com/in/robynyglesias",
       "name": "Robyn Yglesias",
       "company": "YPO Miami Gold Chapter / YPO Bahamas",
       "title": "Chapter Manager",
@@ -704,7 +752,7 @@
       "source_search": "YPO chapter managers Florida"
     },
     {
-      "id": "jamie-hubbard",
+      "id": "jamie-hubbard#linkedin.com/in/jamie-hubbard-3310a58",
       "name": "Jamie Hubbard",
       "company": "YPO Southern 7 Gold Chapter",
       "title": "Chapter Director",
@@ -714,7 +762,7 @@
       "source_search": "YPO chapter managers Florida"
     },
     {
-      "id": "amanda-berry",
+      "id": "amanda-berry#linkedin.com/in/amandalberry",
       "name": "Amanda Berry",
       "company": "YPO Southern 7 Chapter",
       "title": "Chapter Manager",
@@ -725,25 +773,229 @@
     }
   ],
   "activity": [
-    {"timestamp": "2026-01-08T12:00:00Z", "event": "research_complete", "prospect_id": "jennifer-mcclanahan", "details": "Verified event: EO Houston Clubhouse Grand Opening (June 2024). Jennifer McClanahan listed as contact on Business Wire press release."},
-    {"timestamp": "2026-01-08T14:30:00Z", "event": "research_complete", "prospect_id": "cliff-price", "details": "Verified event: EO XCentric 2024 - Unbridled (October 27-29, 2024). Cliff Price confirmed as EO Fort Worth Chapter President and was on the 2024 XCentric Planning Committee. Event verified on eofortworth.org."},
-    {"timestamp": "2026-01-08T16:45:00Z", "event": "research_skipped", "prospect_id": "rob-enright", "details": "Skipped: EO Dallas Board President role was 2007-2009 (16+ years ago). Currently President at The Ward Group media buying agency since 2001. LinkedIn activity shows only marketing content, no event organization. Not a fit - outdated EO connection and not an active event organizer."},
-    {"timestamp": "2026-01-08T18:30:00Z", "event": "research_complete", "prospect_id": "ed-stillman", "details": "Verified event: Experience Austin - a Vistage peer advisory event for SMB owners that Ed organizes. Found LinkedIn post from Sept 2025 inviting Austin business owners to join Thursday morning sessions. Event includes agenda and networking for CEOs/Presidents."},
-    {"timestamp": "2026-01-08T20:15:00Z", "event": "prospect_skipped", "name": "Rod Keller", "reason": "New Vistage Chair (Sep 2025). No verifiable public events found - only runs ongoing CEO peer advisory meetings."},
-    {"timestamp": "2026-01-08T21:30:00Z", "event": "research_complete", "name": "Dennis Howard", "verified_event": "Intrepid CEO 1-Year Anniversary Celebration"},
-    {"timestamp": "2026-01-08T23:45:00Z", "event": "research_complete", "name": "Oscar Benavides", "verified_event": "Fort Worth Vistage CEO Christmas/Holiday Celebration"},
-    {"timestamp": "2026-01-09T01:30:00Z", "event": "prospect_skipped", "name": "Nicole Morris", "reason": "No verifiable event organized. Primarily thought leadership content creator. Spoke at Chase for Business Experience but did not organize it. Runs Vistage peer groups but no specific public event found."},
-    {"timestamp": "2026-01-09T03:00:00Z", "event": "prospect_skipped", "name": "Charles Marino", "reason": "No verifiable public event found. LinkedIn activity consists entirely of member anniversary celebrations and Vistage corporate content. As a Master Chair, he facilitates confidential CEO peer groups but does not promote public events."},
-    {"timestamp": "2026-01-09T15:30:00Z", "event": "research_complete", "name": "Kelle Marsalis", "verified_event": "Plano Chamber City Council Place 7 Special Election Candidate Forum"},
-    {"timestamp": "2026-01-09T16:00:00Z", "event": "research_complete", "name": "Steve Montgomery", "verified_event": "Fort Worth Chamber's 144th Annual Meeting"},
-    {"timestamp": "2026-01-09T17:30:00Z", "event": "research_complete", "name": "Dale Petroskey", "verified_event": "DRC State of the State"},
-    {"timestamp": "2026-01-09T18:00:00Z", "event": "research_complete", "name": "Christal Bennett Howard", "verified_event": "Frisco Chamber Annual Awards Gala"},
-    {"timestamp": "2026-01-09T19:00:00Z", "event": "research_complete", "name": "Ericka Garza", "verified_event": "Coffee with the Chamber at Billy Bob's"},
-    {"timestamp": "2026-01-09T19:30:00Z", "event": "research_complete", "name": "Mike Rollins", "verified_event": "Austin Chamber Annual Meeting 2025"},
-    {"timestamp": "2026-01-09T20:00:00Z", "event": "research_complete", "name": "Beth Bowman", "verified_event": "Irving State of the City"},
-    {"timestamp": "2026-01-09T20:30:00Z", "event": "research_complete", "name": "Lisa Hermes", "verified_event": "McKinney Chamber Annual Business Meeting 2025"},
-    {"timestamp": "2026-01-09T21:00:00Z", "event": "research_complete", "name": "Al Arreola Jr.", "verified_event": "Salute to the Military 2025"},
-    {"timestamp": "2026-01-09T21:30:00Z", "event": "research_complete", "name": "Kyle Jacobson", "verified_event": "Allen Chamber of Commerce State of Education Luncheon"},
-    {"timestamp": "2026-01-09T22:00:00Z", "event": "research_complete", "name": "Ricardo Mora", "verified_event": "El Paso Chamber 2025 State of the County"}
+    {
+      "timestamp": "2026-01-08T12:00:00Z",
+      "event": "research_complete",
+      "prospect_id": "jennifer-mcclanahan",
+      "details": "Verified event: EO Houston Clubhouse Grand Opening (June 2024). Jennifer McClanahan listed as contact on Business Wire press release."
+    },
+    {
+      "timestamp": "2026-01-08T14:30:00Z",
+      "event": "research_complete",
+      "prospect_id": "cliff-price",
+      "details": "Verified event: EO XCentric 2024 - Unbridled (October 27-29, 2024). Cliff Price confirmed as EO Fort Worth Chapter President and was on the 2024 XCentric Planning Committee. Event verified on eofortworth.org."
+    },
+    {
+      "timestamp": "2026-01-08T16:45:00Z",
+      "event": "research_skipped",
+      "prospect_id": "rob-enright",
+      "details": "Skipped: EO Dallas Board President role was 2007-2009 (16+ years ago). Currently President at The Ward Group media buying agency since 2001. LinkedIn activity shows only marketing content, no event organization. Not a fit - outdated EO connection and not an active event organizer."
+    },
+    {
+      "timestamp": "2026-01-08T18:30:00Z",
+      "event": "research_complete",
+      "prospect_id": "ed-stillman",
+      "details": "Verified event: Experience Austin - a Vistage peer advisory event for SMB owners that Ed organizes. Found LinkedIn post from Sept 2025 inviting Austin business owners to join Thursday morning sessions. Event includes agenda and networking for CEOs/Presidents."
+    },
+    {
+      "timestamp": "2026-01-08T20:15:00Z",
+      "event": "prospect_skipped",
+      "name": "Rod Keller",
+      "reason": "New Vistage Chair (Sep 2025). No verifiable public events found - only runs ongoing CEO peer advisory meetings."
+    },
+    {
+      "timestamp": "2026-01-08T21:30:00Z",
+      "event": "research_complete",
+      "name": "Dennis Howard",
+      "verified_event": "Intrepid CEO 1-Year Anniversary Celebration"
+    },
+    {
+      "timestamp": "2026-01-08T23:45:00Z",
+      "event": "research_complete",
+      "name": "Oscar Benavides",
+      "verified_event": "Fort Worth Vistage CEO Christmas/Holiday Celebration"
+    },
+    {
+      "timestamp": "2026-01-09T01:30:00Z",
+      "event": "prospect_skipped",
+      "name": "Nicole Morris",
+      "reason": "No verifiable event organized. Primarily thought leadership content creator. Spoke at Chase for Business Experience but did not organize it. Runs Vistage peer groups but no specific public event found."
+    },
+    {
+      "timestamp": "2026-01-09T03:00:00Z",
+      "event": "prospect_skipped",
+      "name": "Charles Marino",
+      "reason": "No verifiable public event found. LinkedIn activity consists entirely of member anniversary celebrations and Vistage corporate content. As a Master Chair, he facilitates confidential CEO peer groups but does not promote public events."
+    },
+    {
+      "timestamp": "2026-01-09T15:30:00Z",
+      "event": "research_complete",
+      "name": "Kelle Marsalis",
+      "verified_event": "Plano Chamber City Council Place 7 Special Election Candidate Forum"
+    },
+    {
+      "timestamp": "2026-01-09T16:00:00Z",
+      "event": "research_complete",
+      "name": "Steve Montgomery",
+      "verified_event": "Fort Worth Chamber's 144th Annual Meeting"
+    },
+    {
+      "timestamp": "2026-01-09T17:30:00Z",
+      "event": "research_complete",
+      "name": "Dale Petroskey",
+      "verified_event": "DRC State of the State"
+    },
+    {
+      "timestamp": "2026-01-09T18:00:00Z",
+      "event": "research_complete",
+      "name": "Christal Bennett Howard",
+      "verified_event": "Frisco Chamber Annual Awards Gala"
+    },
+    {
+      "timestamp": "2026-01-09T19:00:00Z",
+      "event": "research_complete",
+      "name": "Ericka Garza",
+      "verified_event": "Coffee with the Chamber at Billy Bob's"
+    },
+    {
+      "timestamp": "2026-01-09T19:30:00Z",
+      "event": "research_complete",
+      "name": "Mike Rollins",
+      "verified_event": "Austin Chamber Annual Meeting 2025"
+    },
+    {
+      "timestamp": "2026-01-09T20:00:00Z",
+      "event": "research_complete",
+      "name": "Beth Bowman",
+      "verified_event": "Irving State of the City"
+    },
+    {
+      "timestamp": "2026-01-09T20:30:00Z",
+      "event": "research_complete",
+      "name": "Lisa Hermes",
+      "verified_event": "McKinney Chamber Annual Business Meeting 2025"
+    },
+    {
+      "timestamp": "2026-01-09T21:00:00Z",
+      "event": "research_complete",
+      "name": "Al Arreola Jr.",
+      "verified_event": "Salute to the Military 2025"
+    },
+    {
+      "timestamp": "2026-01-09T21:30:00Z",
+      "event": "research_complete",
+      "name": "Kyle Jacobson",
+      "verified_event": "Allen Chamber of Commerce State of Education Luncheon"
+    },
+    {
+      "timestamp": "2026-01-09T22:00:00Z",
+      "event": "research_complete",
+      "name": "Ricardo Mora",
+      "verified_event": "El Paso Chamber 2025 State of the County"
+    },
+    {
+      "timestamp": "2026-01-09T22:30:00Z",
+      "event": "research_complete",
+      "name": "Jordan Robinson",
+      "verified_event": "State of the Chamber Power Lunch"
+    },
+    {
+      "timestamp": "2026-01-09T23:00:00Z",
+      "event": "research_complete",
+      "name": "Keri Curtis Schmidt",
+      "verified_event": "2026 Fort Bend Chamber Chairman's Gala"
+    },
+    {
+      "timestamp": "2026-01-09T23:30:00Z",
+      "event": "research_complete",
+      "name": "Aaron Cox",
+      "verified_event": "2026 Economic Outlook Conference"
+    },
+    {
+      "timestamp": "2026-01-09T17:48:09.095Z",
+      "event": "prospect_contacted",
+      "name": "Jennifer McClanahan"
+    },
+    {
+      "timestamp": "2026-01-10T00:00:00Z",
+      "event": "research_complete",
+      "name": "Steve Kean",
+      "verified_event": "Greater Houston Partnership 2025 Annual Meeting"
+    },
+    {
+      "timestamp": "2026-01-09T18:04:04.448Z",
+      "event": "prospect_unmarked",
+      "name": "Jennifer McClanahan"
+    },
+    {
+      "timestamp": "2026-01-09T18:04:12.554Z",
+      "event": "prospect_contacted",
+      "name": "Jennifer McClanahan"
+    },
+    {
+      "timestamp": "2026-01-09T18:04:14.100Z",
+      "event": "prospect_contacted",
+      "name": "Cliff Price"
+    },
+    {
+      "timestamp": "2026-01-09T18:04:16.205Z",
+      "event": "prospect_contacted",
+      "name": "Ed Stillman"
+    },
+    {
+      "timestamp": "2026-01-09T18:04:16.930Z",
+      "event": "prospect_unmarked",
+      "name": "Jennifer McClanahan"
+    },
+    {
+      "timestamp": "2026-01-09T18:04:17.749Z",
+      "event": "prospect_unmarked",
+      "name": "Cliff Price"
+    },
+    {
+      "timestamp": "2026-01-09T18:04:19.963Z",
+      "event": "prospect_unmarked",
+      "name": "Ed Stillman"
+    },
+    {
+      "timestamp": "2026-01-09T18:08:49.936Z",
+      "event": "prospect_contacted",
+      "name": "Mike Rollins"
+    },
+    {
+      "timestamp": "2026-01-09T18:08:50.481Z",
+      "event": "prospect_contacted",
+      "name": "Oscar Benavides"
+    },
+    {
+      "timestamp": "2026-01-09T18:08:51.556Z",
+      "event": "prospect_contacted",
+      "name": "Steve Montgomery"
+    },
+    {
+      "timestamp": "2026-01-09T18:08:54.386Z",
+      "event": "prospect_unmarked",
+      "name": "Steve Montgomery"
+    },
+    {
+      "timestamp": "2026-01-09T18:08:54.790Z",
+      "event": "prospect_unmarked",
+      "name": "Mike Rollins"
+    },
+    {
+      "timestamp": "2026-01-09T18:08:55.282Z",
+      "event": "prospect_unmarked",
+      "name": "Oscar Benavides"
+    },
+    {
+      "timestamp": "2026-01-09T18:09:18.829Z",
+      "event": "prospect_contacted",
+      "name": "Jennifer McClanahan"
+    },
+    {
+      "timestamp": "2026-01-09T18:09:21.813Z",
+      "event": "prospect_unmarked",
+      "name": "Jennifer McClanahan"
+    }
   ]
 }

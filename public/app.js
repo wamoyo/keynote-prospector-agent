@@ -70,13 +70,16 @@ function createProspectCard (prospect) {
     copyButton = `<button class="copy-btn" data-message="${message.replace(/"/g, '&quot;')}" title="Copy message">📋 Copy</button>`
   }
 
-  // Build contact button (only for complete prospects)
+  // Build contact button (toggleable for complete/contacted)
   var contactButton = ''
   if (prospect.status === 'complete') {
-    contactButton = `<button class="contact-btn" data-id="${prospect.id}" title="Mark as contacted">✅ Contacted</button>`
+    contactButton = `<button class="contact-btn" data-id="${prospect.id}" title="Mark as contacted">✔ Mark As Contacted</button>`
   } else if (prospect.status === 'contacted') {
-    contactButton = `<div class="contacted-badge">✅ Contacted</div>`
+    contactButton = `<button class="contacted-badge" data-id="${prospect.id}" title="Click to undo">✔ Contacted</button>`
   }
+
+  // Add checkmark prefix for contacted prospects
+  var namePrefix = prospect.status === 'contacted' ? '✔ ' : ''
 
   // Build source search line
   var sourceSearchLine = ''
@@ -89,7 +92,7 @@ function createProspectCard (prospect) {
          id="prospect-${prospect.id}"
          data-status="${prospect.status}">
       <div class="prospect-info">
-        <div class="prospect-name">${prospect.name}</div>
+        <div class="prospect-name">${namePrefix}${prospect.name}</div>
         <div class="prospect-company">${prospect.company}</div>
         <div class="prospect-title">${prospect.title || ''}</div>
       </div>
@@ -207,19 +210,19 @@ function filterProspects (prospects) {
   })
 }
 
-// Side effect: Mark prospect as contacted via API
-function markContacted (prospectId) {
+// Side effect: Toggle prospect contacted status via API
+function toggleContacted (prospectId) {
   fetch('/api/contact/' + prospectId, { method: 'POST' })
     .then(function (res) {
-      if (!res.ok) throw new Error('Failed to mark contacted')
+      if (!res.ok) throw new Error('Failed to toggle contacted')
       return res.json()
     })
     .then(function (data) {
-      console.log('Marked contacted:', prospectId)
+      console.log('Toggled contacted:', prospectId)
     })
     .catch(function (err) {
-      console.error('Error marking contacted:', err)
-      alert('Failed to mark as contacted')
+      console.error('Error toggling contacted:', err)
+      alert('Failed to toggle contacted status')
     })
 }
 
@@ -252,14 +255,25 @@ function renderProspects () {
     })
   })
 
-  // Add click handlers for contact buttons
+  // Add click handlers for contact buttons (mark as contacted)
   document.querySelectorAll('.contact-btn').forEach(btn => {
     btn.addEventListener('click', function (e) {
       e.stopPropagation()
       var id = this.getAttribute('data-id')
       this.textContent = '...'
       this.disabled = true
-      markContacted(id)
+      toggleContacted(id)
+    })
+  })
+
+  // Add click handlers for contacted badges (toggle back to complete)
+  document.querySelectorAll('.contacted-badge').forEach(btn => {
+    btn.addEventListener('click', function (e) {
+      e.stopPropagation()
+      var id = this.getAttribute('data-id')
+      this.textContent = '...'
+      this.disabled = true
+      toggleContacted(id)
     })
   })
 

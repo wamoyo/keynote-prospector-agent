@@ -17,23 +17,35 @@ async function writeStatus (status) {
   await Deno.writeTextFile('./status.json', content)
 }
 
-// Side effect: Mark prospect as contacted
-async function markContacted (prospectId) {
+// Side effect: Toggle prospect contacted status
+async function toggleContacted (prospectId) {
   var status = await readStatus()
   if (!status) return { error: 'No status file' }
 
   var prospect = status.prospects.find(p => p.id === prospectId)
   if (!prospect) return { error: 'Prospect not found' }
 
-  prospect.status = 'contacted'
-  prospect.contacted_at = new Date().toISOString()
+  if (prospect.status === 'contacted') {
+    // Toggle back to complete
+    prospect.status = 'complete'
+    delete prospect.contacted_at
 
-  // Add activity
-  status.activity.push({
-    timestamp: new Date().toISOString(),
-    event: 'prospect_contacted',
-    name: prospect.name
-  })
+    status.activity.push({
+      timestamp: new Date().toISOString(),
+      event: 'prospect_unmarked',
+      name: prospect.name
+    })
+  } else {
+    // Mark as contacted
+    prospect.status = 'contacted'
+    prospect.contacted_at = new Date().toISOString()
+
+    status.activity.push({
+      timestamp: new Date().toISOString(),
+      event: 'prospect_contacted',
+      name: prospect.name
+    })
+  }
 
   await writeStatus(status)
   return { success: true, prospect }
@@ -41,6 +53,8 @@ async function markContacted (prospectId) {
 
 // Side effect: Handle SSE connection
 async function handleSSE (req) {
+  var closed = false
+
   var body = new ReadableStream({
     async start (controller) {
       var encoder = new TextEncoder()
@@ -67,8 +81,9 @@ async function handleSSE (req) {
       // Poll for changes every 2 seconds
       var lastJson = JSON.stringify(status)
 
-      while (true) {
+      while (!closed) {
         await new Promise(resolve => setTimeout(resolve, 2000))
+        if (closed) break
 
         try {
           var newStatus = await readStatus()
@@ -86,9 +101,14 @@ async function handleSSE (req) {
             }
           }
         } catch (err) {
-          console.log('Poll error:', err)
+          // Stream likely closed, stop polling
+          closed = true
+          break
         }
       }
+    },
+    cancel () {
+      closed = true
     }
   })
 
@@ -105,10 +125,10 @@ async function handleSSE (req) {
 async function handler (req) {
   var url = new URL(req.url)
 
-  // API: Mark prospect as contacted
+  // API: Toggle prospect contacted status
   if (url.pathname.startsWith('/api/contact/') && req.method === 'POST') {
     var prospectId = url.pathname.replace('/api/contact/', '')
-    var result = await markContacted(prospectId)
+    var result = await toggleContacted(prospectId)
     return new Response(JSON.stringify(result), {
       headers: { 'Content-Type': 'application/json' }
     })
