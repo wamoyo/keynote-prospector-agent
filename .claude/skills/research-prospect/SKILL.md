@@ -18,20 +18,10 @@ Verify a prospect organized a real event and that it was well received by visiti
 7. If you can find a linkedin post or event website for a real event, copy the link and update the individual's json entry with it. If not, mark them as skipped and move on.
 8. Draft the outreach message using the template below and complete the json entry for the individual.
 
-**USE THE APPROPRIATE TEMPLATE:**
-
-For **past events** (recaps, photos, "thank you" posts):
+**MESSAGE TEMPLATE:**
 ```
-[FirstName], great work on [Specific Event Name]. Looks like people loved it. I'd love to hire you for my AI Training workshops. May I share more?
+[FirstName], nice work on [Event Name]. I'd love to hire you for my AI Training workshops. May I share more?
 ```
-
-For **upcoming events** (invitations, "join us", "save the date"):
-```
-[FirstName], [Specific Event Name] looks like it's going to be fantastic. Best of luck! I'd love to hire you for my AI Training workshops. May I share more?
-```
-
-NOT valid:
-- Events they attended (not organized)
 
 ## How to Update the JSON
 
@@ -41,7 +31,7 @@ Complete:
   "status": "complete",
   "verified_event": "Exact Event Name",
   "event_url": "https://...",
-  "message": "[FirstName], great work on [Event]. Looks like people loved it. I'd love to hire you for my AI Training workshops. May I share more?"
+  "message": "[FirstName], nice work on [Event Name]. I'd love to hire you for my AI Training workshops. May I share more?"
 }
 ```
 Note: `event_url` can be linkedin post URL or event website or something else valid. To get a LinkedIn post URL, use JavaScript to find the `data-urn` attribute on the post element, then use `https://www.linkedin.com/feed/update/{URN}/`.

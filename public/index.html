@@ -26,18 +26,18 @@
           <div class="progress-bar-container">
             <div class="progress-bar" id="progress"></div>
           </div>
-          <div class="stats">
-            <span id="stats-text">0 of 0 processed</span>
-          </div>
           <div class="filters">
             <label class="filter-toggle">
-              <input type="checkbox" id="filter-incomplete" checked> Show needs research
+              <input type="checkbox" id="filter-contacted" checked> <span id="count-contacted">0</span> contacted
             </label>
             <label class="filter-toggle">
-              <input type="checkbox" id="filter-skipped" checked> Show skipped
+              <input type="checkbox" id="filter-ready" checked> <span id="count-ready">0</span> ready
             </label>
             <label class="filter-toggle">
-              <input type="checkbox" id="filter-contacted" checked> Show contacted
+              <input type="checkbox" id="filter-skipped" checked> <span id="count-skipped">0</span> skipped
+            </label>
+            <label class="filter-toggle">
+              <input type="checkbox" id="filter-incomplete" checked> <span id="count-incomplete">0</span> need research
             </label>
           </div>
         </div>

@@ -33,7 +33,7 @@
       "status": "complete",
       "verified_event": "EO Houston Clubhouse Grand Opening",
       "event_url": "https://www.businesswire.com/news/home/20240617376615/en/Entrepreneurs-Organization-EO-Houston-to-Host-Grand-Opening-and-Ribbon-Cutting-Ceremony-for-New-Clubhouse",
-      "message": "Jennifer, great work on the EO Houston Clubhouse Grand Opening. Looks like people loved it. I'd love to hire you for my AI Training workshops. May I share more?"
+      "message": "Jennifer, nice work on the EO Houston Clubhouse Grand Opening. I'd love to hire you for my AI Training workshops. May I share more?"
     },
     {
       "id": "cliff-price",
@@ -45,7 +45,7 @@
       "status": "complete",
       "verified_event": "EO XCentric 2024 - Unbridled",
       "event_url": "https://eofortworth.org/eo-xcentric-2024-unbridled/",
-      "message": "Cliff, great work on EO XCentric 2024 - Unbridled. Looks like people loved it. I'd love to hire you for my AI Training workshops. May I share more?"
+      "message": "Cliff, nice work on EO XCentric 2024 - Unbridled. I'd love to hire you for my AI Training workshops. May I share more?"
     },
     {
       "id": "ed-stillman",
@@ -57,34 +57,37 @@
       "status": "complete",
       "verified_event": "Experience Austin",
       "event_url": "https://www.linkedin.com/feed/update/urn:li:activity:7366562416819650562/",
-      "message": "Ed, Experience Austin looks like it's going to be fantastic. Best of luck! I'd love to hire you for my AI Training workshops. May I share more?"
+      "message": "Ed, nice work on Experience Austin. I'd love to hire you for my AI Training workshops. May I share more?"
     },
     {
       "id": "rod-keller",
       "name": "Rod Keller",
-      "company": "Vistage",
-      "title": "Vistage Chair / CEO Executive Coach",
+      "company": "Vistage Worldwide, Inc.",
+      "title": "CEO/Executive Coach | Vistage Chair, CEO Advisory Board",
       "linkedin_url": "https://www.linkedin.com/in/rodkeller1/",
       "location": "Austin, Texas",
-      "status": "needs_research"
+      "status": "skipped",
+      "skip_reason": "New Vistage Chair (started Sep 2025, only 5 months). Previously CEO at Lynx Motors, Teemak Power, and AYRO Inc. LinkedIn activity shows only thought leadership content about CEO peer groups and business strategy - no specific events organized. While he runs ongoing CEO peer advisory group meetings, no verifiable public event was found."
     },
     {
       "id": "dennis-howard",
       "name": "Dennis Howard",
-      "company": "Vistage Worldwide",
-      "title": "Vistage Chair, PCC",
+      "company": "Vistage Worldwide, Inc.",
+      "title": "Professional Certified Performance Coach for CEOs, CEO Peer Group Facilitator, Speaker, and Entrepreneur",
       "linkedin_url": "https://www.linkedin.com/in/dennischoward/",
       "location": "Dallas-Fort Worth Metroplex",
-      "status": "needs_research"
+      "status": "skipped",
+      "skip_reason": "No public event found. Only internal peer group milestone (1-year anniversary celebration with cake/party hats) - not a legitimate organized event."
     },
     {
       "id": "nicole-morris",
-      "name": "Nicole Morris",
-      "company": "ND Morris & Associates / Vistage",
-      "title": "Vistage Chair",
+      "name": "Nicole (Nik) Morris",
+      "company": "Vistage",
+      "title": "CEO Whisperer | Executive Coach & AI Leadership Strategist",
       "linkedin_url": "https://www.linkedin.com/in/nicolemorris-mba/",
       "location": "Houston, Texas",
-      "status": "needs_research"
+      "status": "skipped",
+      "skip_reason": "No verifiable event organized found. LinkedIn activity is primarily thought leadership content about CEO coaching. She spoke at the Chase for Business Experience (Houston) but did not organize it. Appeared on podcast with Raul Mendoza. Runs ongoing Vistage peer groups but no specific public event could be verified."
     },
     {
       "id": "charles-marino",
@@ -93,16 +96,20 @@
       "title": "Master Chair",
       "linkedin_url": "https://www.linkedin.com/in/charles-marino-6b940512/",
       "location": "San Antonio, Texas",
-      "status": "needs_research"
+      "status": "skipped",
+      "skip_reason": "No verifiable public event found. LinkedIn activity (20+ posts reviewed) consists entirely of member anniversary celebrations (1, 5, 10, 15-year milestones), motivational reposts, and Vistage corporate content. As a Master Chair, he facilitates ongoing confidential CEO peer advisory groups but does not promote public events."
     },
     {
       "id": "oscar-benavides",
       "name": "Oscar Benavides",
-      "company": "Vistage",
-      "title": "Vistage Chair / Executive Coach",
+      "company": "Vistage Worldwide, Inc.",
+      "title": "Vistage Chair | Executive Coach | 'Chair of Excellence' Award Winner",
       "linkedin_url": "https://www.linkedin.com/in/coachoscbenavides/",
       "location": "Dallas-Fort Worth Metroplex",
-      "status": "needs_research"
+      "status": "complete",
+      "verified_event": "Fort Worth Vistage CEO Christmas/Holiday Celebration",
+      "event_url": "https://www.linkedin.com/feed/update/urn:li:activity:7406760364215828481/",
+      "message": "Oscar, nice work on the Fort Worth Vistage CEO Christmas/Holiday Celebration. I'd love to hire you for my AI Training workshops. May I share more?"
     },
     {
       "id": "mike-rollins",
@@ -622,6 +629,11 @@
     {"timestamp": "2026-01-08T12:00:00Z", "event": "research_complete", "prospect_id": "jennifer-mcclanahan", "details": "Verified event: EO Houston Clubhouse Grand Opening (June 2024). Jennifer McClanahan listed as contact on Business Wire press release."},
     {"timestamp": "2026-01-08T14:30:00Z", "event": "research_complete", "prospect_id": "cliff-price", "details": "Verified event: EO XCentric 2024 - Unbridled (October 27-29, 2024). Cliff Price confirmed as EO Fort Worth Chapter President and was on the 2024 XCentric Planning Committee. Event verified on eofortworth.org."},
     {"timestamp": "2026-01-08T16:45:00Z", "event": "research_skipped", "prospect_id": "rob-enright", "details": "Skipped: EO Dallas Board President role was 2007-2009 (16+ years ago). Currently President at The Ward Group media buying agency since 2001. LinkedIn activity shows only marketing content, no event organization. Not a fit - outdated EO connection and not an active event organizer."},
-    {"timestamp": "2026-01-08T18:30:00Z", "event": "research_complete", "prospect_id": "ed-stillman", "details": "Verified event: Experience Austin - a Vistage peer advisory event for SMB owners that Ed organizes. Found LinkedIn post from Sept 2025 inviting Austin business owners to join Thursday morning sessions. Event includes agenda and networking for CEOs/Presidents."}
+    {"timestamp": "2026-01-08T18:30:00Z", "event": "research_complete", "prospect_id": "ed-stillman", "details": "Verified event: Experience Austin - a Vistage peer advisory event for SMB owners that Ed organizes. Found LinkedIn post from Sept 2025 inviting Austin business owners to join Thursday morning sessions. Event includes agenda and networking for CEOs/Presidents."},
+    {"timestamp": "2026-01-08T20:15:00Z", "event": "prospect_skipped", "name": "Rod Keller", "reason": "New Vistage Chair (Sep 2025). No verifiable public events found - only runs ongoing CEO peer advisory meetings."},
+    {"timestamp": "2026-01-08T21:30:00Z", "event": "research_complete", "name": "Dennis Howard", "verified_event": "Intrepid CEO 1-Year Anniversary Celebration"},
+    {"timestamp": "2026-01-08T23:45:00Z", "event": "research_complete", "name": "Oscar Benavides", "verified_event": "Fort Worth Vistage CEO Christmas/Holiday Celebration"},
+    {"timestamp": "2026-01-09T01:30:00Z", "event": "prospect_skipped", "name": "Nicole Morris", "reason": "No verifiable event organized. Primarily thought leadership content creator. Spoke at Chase for Business Experience but did not organize it. Runs Vistage peer groups but no specific public event found."},
+    {"timestamp": "2026-01-09T03:00:00Z", "event": "prospect_skipped", "name": "Charles Marino", "reason": "No verifiable public event found. LinkedIn activity consists entirely of member anniversary celebrations and Vistage corporate content. As a Master Chair, he facilitates confidential CEO peer groups but does not promote public events."}
   ]
 }

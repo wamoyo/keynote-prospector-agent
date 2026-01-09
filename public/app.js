@@ -7,10 +7,28 @@ var state = {
   total: 0,
   processed: 0,
   filters: {
+    showReady: true,
     showIncomplete: true,
     showSkipped: true,
     showContacted: true
   }
+}
+
+// Pure: Load filters from localStorage
+function loadFilters () {
+  var saved = localStorage.getItem('prospector-filters')
+  if (saved) {
+    try {
+      state.filters = JSON.parse(saved)
+    } catch (e) {
+      console.error('Failed to load filters:', e)
+    }
+  }
+}
+
+// Side effect: Save filters to localStorage
+function saveFilters () {
+  localStorage.setItem('prospector-filters', JSON.stringify(state.filters))
 }
 
 // Pure: Format timestamp
@@ -126,34 +144,49 @@ function updatePhase (phase) {
   }
 }
 
-// Side effect: Update progress bar
+// Side effect: Update progress bar and filter counts
 function updateProgress () {
-  var completed = state.prospects.filter(p =>
+  var contacted = state.prospects.filter(p =>
+    p.status === 'contacted'
+  ).length
+
+  var ready = state.prospects.filter(p =>
     p.status === 'complete' || p.status === 'drafted'
+  ).length
+
+  var skipped = state.prospects.filter(p =>
+    p.status === 'skipped'
   ).length
 
   var needsResearch = state.prospects.filter(p =>
     p.status === 'needs_research' || p.status === 'queued'
   ).length
 
-  var progress = state.total > 0 ? (completed / state.total) * 100 : 0
+  var processed = contacted + ready + skipped
+  var progress = state.total > 0 ? (processed / state.total) * 100 : 0
 
   var progressBar = document.getElementById('progress')
   if (progressBar) {
     progressBar.style.width = `${progress}%`
   }
 
-  var statsText = document.getElementById('stats-text')
-  if (statsText) {
-    statsText.textContent = `${completed} complete, ${needsResearch} need research (${state.total} total)`
-  }
+  // Update count spans in filter labels
+  var countContacted = document.getElementById('count-contacted')
+  var countReady = document.getElementById('count-ready')
+  var countSkipped = document.getElementById('count-skipped')
+  var countIncomplete = document.getElementById('count-incomplete')
+
+  if (countContacted) countContacted.textContent = contacted
+  if (countReady) countReady.textContent = ready
+  if (countSkipped) countSkipped.textContent = skipped
+  if (countIncomplete) countIncomplete.textContent = needsResearch
 }
 
 // Pure: Filter prospects based on current filter state
 function filterProspects (prospects) {
   return prospects.filter(function (p) {
-    // Always show complete prospects
-    if (p.status === 'complete') return true
+    // Show ready (complete/drafted) if filter enabled
+    if (p.status === 'complete' || p.status === 'drafted') return state.filters.showReady
     // Show contacted if filter enabled
     if (p.status === 'contacted') return state.filters.showContacted
     // Show skipped if filter enabled
@@ -303,13 +336,32 @@ function connectToStream () {
 
 // Side effect: Setup filter toggle listeners
 function setupFilters () {
+  // Load saved filters first
+  loadFilters()
+
+  var readyToggle = document.getElementById('filter-ready')
   var incompleteToggle = document.getElementById('filter-incomplete')
   var skippedToggle = document.getElementById('filter-skipped')
   var contactedToggle = document.getElementById('filter-contacted')
 
+  // Restore checkbox states from saved filters
+  if (readyToggle) readyToggle.checked = state.filters.showReady
+  if (incompleteToggle) incompleteToggle.checked = state.filters.showIncomplete
+  if (skippedToggle) skippedToggle.checked = state.filters.showSkipped
+  if (contactedToggle) contactedToggle.checked = state.filters.showContacted
+
+  if (readyToggle) {
+    readyToggle.addEventListener('change', function () {
+      state.filters.showReady = this.checked
+      saveFilters()
+      renderProspects()
+    })
+  }
+
   if (incompleteToggle) {
     incompleteToggle.addEventListener('change', function () {
       state.filters.showIncomplete = this.checked
+      saveFilters()
       renderProspects()
     })
   }
@@ -317,6 +369,7 @@ function setupFilters () {
   if (skippedToggle) {
     skippedToggle.addEventListener('change', function () {
       state.filters.showSkipped = this.checked
+      saveFilters()
       renderProspects()
     })
   }
@@ -324,6 +377,7 @@ function setupFilters () {
   if (contactedToggle) {
     contactedToggle.addEventListener('change', function () {
       state.filters.showContacted = this.checked
+      saveFilters()
       renderProspects()
     })
   }
