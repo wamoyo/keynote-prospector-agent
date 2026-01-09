@@ -44,6 +44,7 @@ function createProspectCard (prospect) {
   var eventUrl = prospect.event_url || ''
   var verifiedEvent = prospect.verified_event || ''
   var skipReason = prospect.skip_reason || ''
+  var sourceSearch = prospect.source_search || ''
 
   // Build event button if we have a verified event
   var eventButton = ''
@@ -77,6 +78,12 @@ function createProspectCard (prospect) {
     contactButton = `<div class="contacted-badge">✅ Contacted</div>`
   }
 
+  // Build source search line
+  var sourceSearchLine = ''
+  if (sourceSearch) {
+    sourceSearchLine = `<div class="source-search">${sourceSearch}</div>`
+  }
+
   return `
     <div class="prospect-card"
          id="prospect-${prospect.id}"
@@ -94,6 +101,7 @@ function createProspectCard (prospect) {
         </div>
         ${contactButton}
       </div>
+      ${sourceSearchLine}
     </div>
   `
 }

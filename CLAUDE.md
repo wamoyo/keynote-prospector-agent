@@ -76,7 +76,7 @@ Find prospects matching user's criteria.
 
 **Output:**
 - Add query to `searches[]`
-- Add new prospects to `prospects[]` with `status: "needs_research"`
+- Add new prospects to `prospects[]` with `status: "needs_research"` and `source_search` set to the query (without `site:linkedin.com`)
 - Log to `activity[]`
 
 ### Step 2: Research
@@ -106,7 +106,7 @@ For each prospect with `status: "needs_research"`, use **Claude for Chrome** to:
 ## Prospect Fields
 
 Required:
-- `id`, `name`, `company`, `linkedin_url`, `status`
+- `id`, `name`, `company`, `linkedin_url`, `status`, `source_search`
 
 Optional:
 - `title`, `location`
