@@ -33,10 +33,10 @@ h1 {
 }
 
 .phase-indicator {
-  background: #fff;
-  padding: 10px 20px;
-  border-radius: 8px;
-  border: 2px solid #000;
+  padding: 6px 12px;
+  border-radius: 4px;
+  background: #f5f5f5;
+  font-size: 0.85rem;
 }
 
 .phase-label {
@@ -55,11 +55,20 @@ h1 {
   display: grid;
   grid-template-columns: 2fr 1fr;
   gap: 30px;
+  align-items: start;
 }
 
 /* Section headers */
 .section-header {
   margin-bottom: 20px;
+  position: sticky;
+  top: 0;
+  background: #fdc844;
+  padding: 10px 20px 15px;
+  margin-left: -20px;
+  margin-right: -20px;
+  z-index: 100;
+  box-shadow: 0 8px 12px -4px #fdc844;
 }
 
 h2 {
@@ -389,10 +398,34 @@ h2 {
   padding: 20px;
   border: none;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+  position: sticky;
+  top: 20px;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.activity-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 -20px;
+  padding: 0 20px 15px;
+  background: #fff;
+  position: relative;
+  z-index: 10;
+  box-shadow: 0 8px 12px -4px #fff;
+}
+
+.activity-header h2 {
+  margin-bottom: 0;
 }
 
 .activity-feed {
   overflow-y: auto;
+  flex: 1;
+  margin: 0 -20px;
+  padding: 0 20px;
 }
 
 .activity-item {
