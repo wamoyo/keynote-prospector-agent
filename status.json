@@ -127,7 +127,10 @@
       "title": "President",
       "linkedin_url": "https://www.linkedin.com/in/mike-rollins-0238377/",
       "location": "Austin, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "Austin Chamber Annual Meeting 2025",
+      "event_url": "https://www.linkedin.com/feed/update/urn:li:activity:7414779160935542784/",
+      "message": "Mike, nice work on the Austin Chamber Annual Meeting 2025. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -148,9 +151,12 @@
       "name": "Ericka Garza",
       "company": "Fort Worth Hispanic Chamber of Commerce",
       "title": "President & CEO",
-      "linkedin_url": "https://www.linkedin.com/company/fwhcc",
+      "linkedin_url": "https://www.linkedin.com/in/ericka-garza/",
       "location": "Fort Worth, Texas",
-      "status": "researching",
+      "status": "complete",
+      "verified_event": "Coffee with the Chamber at Billy Bob's",
+      "event_url": "https://business.fwhcc.org/events/details/2026-coffee-with-the-chamber-with-servepro-of-north-fort-worth-at-billy-bob-s-5119071",
+      "message": "Ericka, nice work on Coffee with the Chamber at Billy Bob's. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -194,12 +200,15 @@
     },
     {
       "id": "beth-bowman",
-      "name": "Beth Bowman",
-      "company": "Greater Irving - Las Colinas Chamber of Commerce",
+      "name": "Beth A. Bowman",
+      "company": "Greater Irving-Las Colinas Chamber of Commerce",
       "title": "President & CEO, IOM, CCE",
       "linkedin_url": "https://www.linkedin.com/in/bethbowman/",
       "location": "Irving, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "Irving State of the City",
+      "event_url": "https://local.irvingchamber.com/atlas/calendar",
+      "message": "Beth, nice work on the Irving State of the City. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -209,17 +218,23 @@
       "title": "President & CEO, CCE, IOM",
       "linkedin_url": "https://www.linkedin.com/in/lhermes/",
       "location": "McKinney, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "McKinney Chamber Annual Business Meeting 2025",
+      "event_url": "https://mckinneytoday.com/mckinney-chamber-of-commerce-celebrates-success-and-looks-to-the-future-at-annual-business-meeting/",
+      "message": "Lisa, nice work on the McKinney Chamber Annual Business Meeting 2025. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
       "id": "kyle-jacobson",
       "name": "Kyle Jacobson",
       "company": "Allen Fairview Chamber of Commerce",
-      "title": "President & CEO, IOM",
+      "title": "CEO, IOM",
       "linkedin_url": "https://www.linkedin.com/in/kylejacobson11",
       "location": "Allen, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "Allen Chamber of Commerce State of Education Luncheon",
+      "event_url": "https://www.linkedin.com/feed/update/urn:li:activity:7366471328951902209/",
+      "message": "Kyle, nice work on the Allen Chamber of Commerce State of Education Luncheon. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -227,9 +242,12 @@
       "name": "Al Arreola Jr.",
       "company": "United Corpus Christi Chamber of Commerce",
       "title": "President & CEO",
-      "linkedin_url": "https://unitedcorpuschristi.org",
+      "linkedin_url": "https://www.linkedin.com/in/alarreola/",
       "location": "Corpus Christi, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "Salute to the Military 2025",
+      "event_url": "https://unitedcorpuschristi.org/salute-to-the-military-2025-honoring-service-celebrating-community/",
+      "message": "Al, nice work on Salute to the Military 2025. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -237,9 +255,12 @@
       "name": "Ricardo Mora",
       "company": "El Paso Chamber",
       "title": "President & CEO",
-      "linkedin_url": "https://www.linkedin.com/company/greater-el-paso-chamber-of-commerce",
+      "linkedin_url": "https://www.linkedin.com/in/ricardomoradiaz/",
       "location": "El Paso, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "El Paso Chamber 2025 State of the County",
+      "event_url": "https://members.elpaso.org/events/Details/state-of-the-county-1589719",
+      "message": "Ricardo, nice work on the El Paso Chamber 2025 State of the County. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -715,6 +736,14 @@
     {"timestamp": "2026-01-09T03:00:00Z", "event": "prospect_skipped", "name": "Charles Marino", "reason": "No verifiable public event found. LinkedIn activity consists entirely of member anniversary celebrations and Vistage corporate content. As a Master Chair, he facilitates confidential CEO peer groups but does not promote public events."},
     {"timestamp": "2026-01-09T15:30:00Z", "event": "research_complete", "name": "Kelle Marsalis", "verified_event": "Plano Chamber City Council Place 7 Special Election Candidate Forum"},
     {"timestamp": "2026-01-09T16:00:00Z", "event": "research_complete", "name": "Steve Montgomery", "verified_event": "Fort Worth Chamber's 144th Annual Meeting"},
-    {"timestamp": "2026-01-09T17:30:00Z", "event": "research_complete", "name": "Dale Petroskey", "verified_event": "DRC State of the State"}
+    {"timestamp": "2026-01-09T17:30:00Z", "event": "research_complete", "name": "Dale Petroskey", "verified_event": "DRC State of the State"},
+    {"timestamp": "2026-01-09T18:00:00Z", "event": "research_complete", "name": "Christal Bennett Howard", "verified_event": "Frisco Chamber Annual Awards Gala"},
+    {"timestamp": "2026-01-09T19:00:00Z", "event": "research_complete", "name": "Ericka Garza", "verified_event": "Coffee with the Chamber at Billy Bob's"},
+    {"timestamp": "2026-01-09T19:30:00Z", "event": "research_complete", "name": "Mike Rollins", "verified_event": "Austin Chamber Annual Meeting 2025"},
+    {"timestamp": "2026-01-09T20:00:00Z", "event": "research_complete", "name": "Beth Bowman", "verified_event": "Irving State of the City"},
+    {"timestamp": "2026-01-09T20:30:00Z", "event": "research_complete", "name": "Lisa Hermes", "verified_event": "McKinney Chamber Annual Business Meeting 2025"},
+    {"timestamp": "2026-01-09T21:00:00Z", "event": "research_complete", "name": "Al Arreola Jr.", "verified_event": "Salute to the Military 2025"},
+    {"timestamp": "2026-01-09T21:30:00Z", "event": "research_complete", "name": "Kyle Jacobson", "verified_event": "Allen Chamber of Commerce State of Education Luncheon"},
+    {"timestamp": "2026-01-09T22:00:00Z", "event": "research_complete", "name": "Ricardo Mora", "verified_event": "El Paso Chamber 2025 State of the County"}
   ]
 }
