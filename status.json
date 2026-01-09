@@ -358,17 +358,23 @@
       "title": "President & CEO, IOM",
       "linkedin_url": "https://www.linkedin.com/in/shontel-mays",
       "location": "Georgetown, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "26th Annual Red Poppy Festival",
+      "event_url": "https://www.linkedin.com/feed/update/urn:li:activity:7321672577574232064/",
+      "message": "Shontel, nice work on the Red Poppy Festival. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
-      "id": "bridget-l-brandt#linkedin.com/company/leander-chamber-of-commerce",
-      "name": "Bridget L. Brandt",
-      "company": "Leander Chamber of Commerce",
-      "title": "President",
-      "linkedin_url": "https://www.linkedin.com/company/leander-chamber-of-commerce",
+      "id": "bridget-l-brandt#linkedin.com/in/bridgetbrandt",
+      "name": "Bridget L. Brandt, MBA",
+      "company": "Leander Chamber of Commerce & Visitors Center",
+      "title": "President & Chief Executive Officer",
+      "linkedin_url": "https://www.linkedin.com/in/bridgetbrandt/",
       "location": "Leander, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "Leander Summit: Real Estate & Economic Development",
+      "event_url": "https://www.linkedin.com/feed/update/urn:li:activity:7349088919554068480/",
+      "message": "Bridget, nice work on the Leander Summit. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -377,8 +383,11 @@
       "company": "Texas Association of Business",
       "title": "President & CEO",
       "linkedin_url": "https://www.linkedin.com/in/glenn-hamer-50674b5/",
-      "location": "Texas",
-      "status": "needs_research",
+      "location": "Austin, Texas",
+      "status": "complete",
+      "verified_event": "TAB's 2025 Texas Dynamism Summit",
+      "event_url": "https://www.txbiz.org/2025/11/21/recap-tabs-2025-texas-dynamism-summit/",
+      "message": "Glenn, nice work on the Texas Dynamism Summit. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "business association presidents Texas"
     },
     {
@@ -388,7 +397,10 @@
       "title": "President and CEO",
       "linkedin_url": "https://www.linkedin.com/in/monica-munoz-andry/",
       "location": "Austin, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "State of the GAHCC Annual Meeting",
+      "event_url": "https://www.linkedin.com/feed/update/urn:li:activity:7415140409636728833/",
+      "message": "Monica, nice work on the State of the GAHCC Annual Meeting. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -996,6 +1008,30 @@
       "timestamp": "2026-01-09T18:09:21.813Z",
       "event": "prospect_unmarked",
       "name": "Jennifer McClanahan"
+    },
+    {
+      "timestamp": "2026-01-09T19:15:00Z",
+      "event": "research_complete",
+      "name": "Monica Munoz Andry",
+      "verified_event": "State of the GAHCC Annual Meeting"
+    },
+    {
+      "timestamp": "2026-01-09T19:30:00Z",
+      "event": "research_complete",
+      "name": "Bridget L. Brandt",
+      "verified_event": "Leander Summit: Real Estate & Economic Development"
+    },
+    {
+      "timestamp": "2026-01-09T19:45:00Z",
+      "event": "research_complete",
+      "name": "Glenn Hamer",
+      "verified_event": "TAB's 2025 Texas Dynamism Summit"
+    },
+    {
+      "timestamp": "2026-01-09T20:00:00Z",
+      "event": "research_complete",
+      "name": "Shontel Mays",
+      "verified_event": "26th Annual Red Poppy Festival"
     }
   ]
 }
