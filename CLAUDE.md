@@ -33,7 +33,7 @@ Everything lives in one file at the project root: `status.json`
   ],
   "prospects": [
     {
-      "id": "sarah-smith",
+      "id": "sarah-smith#linkedin.com/in/sarahsmith",
       "name": "Sarah Smith",
       "title": "EO President",
       "company": "EO Austin",
@@ -106,7 +106,8 @@ For each prospect with `status: "needs_research"`, use **Claude for Chrome** to:
 ## Prospect Fields
 
 Required:
-- `id`, `name`, `company`, `linkedin_url`, `status`, `source_search`
+- `id` — Format: `name-slug#linkedin-url-without-https` (e.g., `sarah-smith#linkedin.com/in/sarahsmith`)
+- `name`, `company`, `linkedin_url`, `status`, `source_search`
 
 Optional:
 - `title`, `location`
