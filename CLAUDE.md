@@ -7,7 +7,7 @@ Find event organizers and draft personalized outreach messages to help Costa con
 **FOLLOW THIS TEMPLATE STRICTLY:**
 
 ```
-[FirstName], great work on [Specific Event Name]. Looks like people loved it. I'd love to hire you for my AI Training workshops. May I share more?
+[FirstName], nice work on [Event Name]. I'd love to hire you for my AI Training workshops. May I share more?
 ```
 
 **What changes per person:**
@@ -41,7 +41,7 @@ Everything lives in one file at the project root: `status.json`
       "location": "Austin, Texas",
       "status": "needs_research|researching|complete",
       "verified_event": "EO Austin Annual Summit 2024",
-      "message": "Sarah, great work on..."
+      "message": "Sarah, nice work on..."
     }
   ],
   "activity": [

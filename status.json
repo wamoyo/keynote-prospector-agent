@@ -410,7 +410,10 @@
       "title": "President & CEO, IOM",
       "linkedin_url": "https://www.linkedin.com/in/pagemichel/",
       "location": "San Marcos, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "122nd Annual Dinner & Awards Gala",
+      "event_url": "https://www.linkedin.com/feed/update/urn:li:activity:7397485175372210176/",
+      "message": "Page, nice work on the 122nd Annual Dinner & Awards Gala. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -420,7 +423,10 @@
       "title": "President",
       "linkedin_url": "https://www.linkedin.com/in/henry-bell-0989321a/",
       "location": "Tyler, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "42nd Annual Economic Outlook by Dr. Ray Perryman",
+      "event_url": "https://business.tylertexas.com/events/",
+      "message": "Henry, great work on the 42nd Annual Economic Outlook. Looks like people loved it. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -430,7 +436,10 @@
       "title": "CEO",
       "linkedin_url": "https://www.tylertexas.com",
       "location": "Tyler, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "42nd Annual Economic Outlook with Dr. Ray Perryman",
+      "event_url": "https://www.eventbrite.com/e/2026-42nd-annual-economic-outlook-by-dr-ray-perryman-tickets-1968208952961",
+      "message": "Scott, nice work on the 42nd Annual Economic Outlook. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -440,7 +449,10 @@
       "title": "President & CEO",
       "linkedin_url": "https://www.linkedin.com/in/nicholas-atwood-93062b93/",
       "location": "Lubbock, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "Celebrate: Annual Meeting and Awards 2025",
+      "event_url": "https://www.instagram.com/lubbockchamber/",
+      "message": "Nick, nice work on the Celebrate: Annual Meeting and Awards. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -450,7 +462,10 @@
       "title": "President & CEO",
       "linkedin_url": "https://www.linkedin.com/company/amarillochamber",
       "location": "Amarillo, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "Business Excellence Awards Celebration 2025",
+      "event_url": "https://www.amarillo-chamber.org/business-excellence-awards-celebration.html",
+      "message": "Jason, great work on the Business Excellence Awards Celebration. Looks like people loved it. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -460,17 +475,21 @@
       "title": "President & CEO",
       "linkedin_url": "https://www.linkedin.com/in/matt-meadors-05574714/",
       "location": "Waco, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "2025 Economic Outlook Luncheon",
+      "event_url": "https://wacochamber.com/economic-outlook-luncheon/",
+      "message": "Matt, nice work on the 2025 Economic Outlook Luncheon. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
       "id": "barry-albrecht#linkedin.com/company/greater-killeen-chamber-of-commerce",
       "name": "Barry Albrecht",
       "company": "Greater Killeen Chamber of Commerce",
-      "title": "President",
+      "title": "President (former)",
       "linkedin_url": "https://www.linkedin.com/company/greater-killeen-chamber-of-commerce",
       "location": "Killeen, Texas",
-      "status": "needs_research",
+      "status": "skipped",
+      "skip_reason": "No longer President. Barry Albrecht was appointed President & CEO in April 2025 but resigned in August 2025 after only 4 months. He is no longer with the chamber and cannot be contacted for events. The chamber has organized events like Leadercast: Legacy of Impact, but a new president would need to be researched.",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -480,7 +499,10 @@
       "title": "President & CEO",
       "linkedin_url": "https://www.linkedin.com/in/glen-brewer-110107114/",
       "location": "Bryan/College Station, Texas",
-      "status": "needs_research",
+      "status": "complete",
+      "verified_event": "Economic Outlook Conference 2026",
+      "event_url": "https://business.bcschamber.org/events/details/economic-outlook-conference-2026-3742",
+      "message": "Glen, nice work on the Economic Outlook Conference. I'd love to hire you for my AI Training workshops. May I share more?",
       "source_search": "Chamber of Commerce presidents Texas"
     },
     {
@@ -490,7 +512,8 @@
       "title": "YPO Chapter Chair / President & CEO",
       "linkedin_url": "https://www.linkedin.com/in/john-rangel-099603a9/",
       "location": "San Antonio, Texas",
-      "status": "needs_research",
+      "status": "skipped",
+      "skip_reason": "YPO San Antonio Chapter Chair role cannot be verified. His LinkedIn profile only lists President/CEO at TRDI Incorporated since Oct 2016 - no YPO role mentioned anywhere. LinkedIn activity is minimal (only congratulatory comments and one 3-year-old TRDI employee promotion post). Google searches for 'John Rangel YPO San Antonio event' returned no results. No verifiable event organized found.",
       "source_search": "YPO chapter managers Texas"
     },
     {
@@ -500,7 +523,8 @@
       "title": "Chapter Manager",
       "linkedin_url": "https://www.linkedin.com/in/taylor-engel-45114a5/",
       "location": "Austin, Texas",
-      "status": "needs_research",
+      "status": "skipped",
+      "skip_reason": "Chapter Manager role is administrative, not event organization. Taylor manages dues collection and logistics (confirmed via Cheddar Up testimonial about collecting 'dues and chapter retreats'). The Chapter Chair (Dave Robshaw) organizes actual chapter events like the YPO Texas Couples Retreat to South Africa. Taylor has no LinkedIn posts and no public record of organizing specific events. Her 12+ years of experience is in operations support, not event leadership.",
       "source_search": "YPO chapter managers Texas"
     },
     {
@@ -1032,6 +1056,66 @@
       "event": "research_complete",
       "name": "Shontel Mays",
       "verified_event": "26th Annual Red Poppy Festival"
+    },
+    {
+      "timestamp": "2026-01-10T14:30:00Z",
+      "event": "research_complete",
+      "name": "Scott Martinez",
+      "verified_event": "42nd Annual Economic Outlook with Dr. Ray Perryman"
+    },
+    {
+      "timestamp": "2026-01-10T15:00:00Z",
+      "event": "research_complete",
+      "name": "Page Michel",
+      "verified_event": "122nd Annual Dinner & Awards Gala"
+    },
+    {
+      "timestamp": "2026-01-10T15:30:00Z",
+      "event": "research_complete",
+      "name": "Matt Meadors",
+      "verified_event": "2025 Economic Outlook Luncheon"
+    },
+    {
+      "timestamp": "2026-01-10T16:00:00Z",
+      "event": "research_complete",
+      "name": "Nicholas Atwood",
+      "verified_event": "Celebrate: Annual Meeting and Awards 2025"
+    },
+    {
+      "timestamp": "2026-01-10T16:30:00Z",
+      "event": "prospect_skipped",
+      "name": "Taylor Engel",
+      "reason": "Chapter Manager role is administrative (dues, logistics) not event organization. Chapter Chair Dave Robshaw organizes events. No LinkedIn posts, no verifiable event organized."
+    },
+    {
+      "timestamp": "2026-01-10T17:00:00Z",
+      "event": "research_complete",
+      "name": "Glen Brewer",
+      "verified_event": "Economic Outlook Conference 2026"
+    },
+    {
+      "timestamp": "2026-01-10T17:30:00Z",
+      "event": "prospect_skipped",
+      "name": "Barry Albrecht",
+      "reason": "No longer President. Was appointed in April 2025 but resigned in August 2025 after only 4 months. Chamber organized events like Leadercast: Legacy of Impact but Barry is no longer there."
+    },
+    {
+      "timestamp": "2026-01-10T18:00:00Z",
+      "event": "research_complete",
+      "name": "Jason Harrison",
+      "verified_event": "Business Excellence Awards Celebration 2025"
+    },
+    {
+      "timestamp": "2026-01-10T19:00:00Z",
+      "event": "prospect_skipped",
+      "name": "John Rangel",
+      "reason": "YPO San Antonio Chapter Chair role cannot be verified from public sources. LinkedIn profile shows only TRDI Incorporated (President/CEO since Oct 2016) - no YPO role listed. Minimal LinkedIn activity with no event organization. Google searches returned no results linking him to YPO San Antonio events."
+    },
+    {
+      "timestamp": "2026-01-10T20:00:00Z",
+      "event": "research_complete",
+      "name": "Henry Bell",
+      "verified_event": "42nd Annual Economic Outlook by Dr. Ray Perryman"
     }
   ]
 }

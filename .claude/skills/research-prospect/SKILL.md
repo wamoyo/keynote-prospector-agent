@@ -10,7 +10,7 @@ Verify a prospect organized a real event and that it was well received by visiti
 ## Process
 
 1. Set the prospect's `status` to `"researching"` in status.json so the dashboard shows progress.
-2. Navigate to the prospect's LinkedIn profile using their `linkedin_url` with Claude for Chrome.
+2. Navigate to the prospect's LinkedIn profile using their `linkedin_url` with Claude for Chrome (create a new tab first to avoid interfering with other agents).
 3. Make sure their title, name, and current employement match their json entry, or update to match what's on LinkedIn.
 4. If the individual is not in our target market anymore (event organizers who know lots of small business owners), mark them as skipped and move on.
 5. Find the activity section and look for recent events they organized. You'll know this work if you see posts about an event, especially if there are people tagged or comments or likes.

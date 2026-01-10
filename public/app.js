@@ -181,6 +181,10 @@ function updateProgress () {
     progressBar.style.width = `${progress}%`
   }
 
+  // Update total count in h2
+  var totalCount = document.getElementById('total-count')
+  if (totalCount) totalCount.textContent = state.total
+
   // Update count spans in filter labels
   var countContacted = document.getElementById('count-contacted')
   var countReady = document.getElementById('count-ready')
